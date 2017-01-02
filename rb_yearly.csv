@@ -1,0 +1,977 @@
+Name,Pos,CareerYear,Ind,Year,Team,G,GS,Att,Yds,Avg,YPG,Lg,TD,FD
+"brown, aaron",RB,1,aaron-brown-brownaa04/,2009,Detroit (NFL),15,2,27,131,4.85,8.7,19,0,7
+"brown, aaron",RB,2,aaron-brown-brownaa04/,2010,Detroit (NFL),6,0,17,58,3.41,9.7,9,0,2
+"brown, aaron",RB,3,aaron-brown-brownaa04/,2011,Detroit (NFL),1,0,1,0,0.00,0.0,0,0,0
+"peterson, adrian",RB,1,adrian-peterson-peterad02/,2007,Minnesota (NFL),14,9,238,"1,341",5.63,95.8,73t,12,62
+"peterson, adrian",RB,2,adrian-peterson-peterad02/,2008,Minnesota (NFL),16,15,363,"1,760",4.85,110.0,67t,10,81
+"peterson, adrian",RB,3,adrian-peterson-peterad02/,2009,Minnesota (NFL),16,15,314,"1,383",4.40,86.4,64t,18,74
+"peterson, adrian",RB,4,adrian-peterson-peterad02/,2010,Minnesota (NFL),15,15,283,"1,298",4.59,86.5,80t,12,70
+"peterson, adrian",RB,5,adrian-peterson-peterad02/,2011,Minnesota (NFL),12,12,208,970,4.66,80.8,54,12,49
+"peterson, adrian",RB,6,adrian-peterson-peterad02/,2012,Minnesota (NFL),16,16,348,"2,097",6.03,131.1,82t,12,85
+"peterson, adrian",RB,7,adrian-peterson-peterad02/,2013,Minnesota (NFL),14,14,279,"1,266",4.54,90.4,78t,10,59
+"peterson, adrian",RB,8,adrian-peterson-peterad02/,2014,Minnesota (NFL),1,1,21,75,3.57,75.0,17,0,3
+"peterson, adrian",RB,9,adrian-peterson-peterad02/,2015,Minnesota (NFL),16,16,327,"1,485",4.54,92.8,80t,11,71
+"peterson, adrian",RB,10,adrian-peterson-peterad02/,2016,Minnesota (NFL),3,3,37,72,1.95,24.0,13,0,3
+"bradshaw, ahmad",RB,1,ahmad-bradshaw-bradsah01/,2007,NY Giants (NFL),12,0,23,190,8.26,15.8,88t,1,6
+"bradshaw, ahmad",RB,2,ahmad-bradshaw-bradsah01/,2008,NY Giants (NFL),15,0,67,355,5.30,23.7,77,1,12
+"bradshaw, ahmad",RB,3,ahmad-bradshaw-bradsah01/,2009,NY Giants (NFL),15,1,163,778,4.77,51.9,38,7,46
+"bradshaw, ahmad",RB,4,ahmad-bradshaw-bradsah01/,2010,NY Giants (NFL),16,11,276,"1,235",4.47,77.2,48t,8,62
+"bradshaw, ahmad",RB,5,ahmad-bradshaw-bradsah01/,2011,NY Giants (NFL),12,9,171,659,3.85,54.9,37,9,42
+"bradshaw, ahmad",RB,6,ahmad-bradshaw-bradsah01/,2012,NY Giants (NFL),14,12,221,"1,015",4.59,72.5,37,6,56
+"bradshaw, ahmad",RB,7,ahmad-bradshaw-bradsah01/,2013,Indianapolis (NFL),3,2,41,186,4.54,62.0,27,2,11
+"bradshaw, ahmad",RB,8,ahmad-bradshaw-bradsah01/,2014,Indianapolis (NFL),10,1,90,425,4.72,42.5,29,2,18
+"bradshaw, ahmad",RB,9,ahmad-bradshaw-bradsah01/,2015,Indianapolis (NFL),6,0,31,85,2.74,14.2,23,0,5
+"hall, ahmard",RB,1,ahmard-hall-hallah01/,2006,Tennessee (NFL),14,7,7,21,3.00,1.5,11,0,3
+"hall, ahmard",RB,2,ahmard-hall-hallah01/,2007,Tennessee (NFL),11,4,1,8,8.00,0.7,8,0,1
+"hall, ahmard",RB,3,ahmard-hall-hallah01/,2008,Tennessee (NFL),16,11,8,21,2.62,1.3,6,0,3
+"hall, ahmard",RB,4,ahmard-hall-hallah01/,2009,Tennessee (NFL),16,7,1,5,5.00,0.3,5,0,0
+"hall, ahmard",RB,5,ahmard-hall-hallah01/,2010,Tennessee (NFL),16,4,1,1,1.00,0.1,1,0,1
+"hall, ahmard",RB,6,ahmard-hall-hallah01/,2011,Tennessee (NFL),12,7,6,24,4.00,2.0,12,0,3
+"green, alex",RB,1,alex-green-greenal05/,2011,Green Bay (NFL),4,0,3,11,3.67,2.8,8,0,0
+"green, alex",RB,2,alex-green-greenal05/,2012,Green Bay (NFL),12,4,135,464,3.44,38.7,41,0,17
+"green, alex",RB,3,alex-green-greenal05/,2013,NY Jets (NFL),13,0,11,35,3.18,2.7,9,0,2
+"smith, alphonso",RB,1,alphonso-smith-smithal10/,2010,Arizona (NFL),1,0,0,0,0.00,0.0,0,0,0
+"smith, alphonso",RB,2,alphonso-smith-smithal10/,2011,Arizona (NFL),15,0,30,102,3.40,6.8,12,1,7
+"smith, alphonso",RB,3,alphonso-smith-smithal10/,2012,Arizona (NFL),11,0,0,0,0.00,0.0,0,0,0
+"smith, alphonso",RB,4,alphonso-smith-smithal10/,2013,Arizona (NFL),16,0,18,54,3.00,3.4,21,1,5
+"smith, alphonso",RB,5,alphonso-smith-smithal10/,2014,San Francisco (NFL),6,0,7,19,2.71,3.2,12,0,1
+"allen, anthony",RB,1,anthony-allen-allenan04/,2011,Baltimore (NFL),5,0,3,8,2.67,1.6,3,0,0
+"allen, anthony",RB,2,anthony-allen-allenan04/,2012,Baltimore (NFL),16,0,16,61,3.81,3.8,20,1,4
+"dixon, anthony",RB,1,anthony-dixon-dixonan03/,2010,San Francisco (NFL),16,0,70,237,3.39,14.8,34,2,11
+"dixon, anthony",RB,2,anthony-dixon-dixonan03/,2011,San Francisco (NFL),16,0,29,87,3.00,5.4,9,2,6
+"dixon, anthony",RB,3,anthony-dixon-dixonan03/,2012,San Francisco (NFL),16,0,21,78,3.71,4.9,9,2,3
+"dixon, anthony",RB,4,anthony-dixon-dixonan03/,2013,San Francisco (NFL),16,1,28,56,2.00,3.5,9,2,5
+"dixon, anthony",RB,5,anthony-dixon-dixonan03/,2014,Buffalo (NFL),16,0,105,432,4.11,27.0,47,2,13
+"dixon, anthony",RB,6,anthony-dixon-dixonan03/,2015,Buffalo (NFL),16,1,21,44,2.10,2.8,6,1,5
+"sherman, anthony",RB,1,anthony-sherman-sherman01/,2011,Arizona (NFL),15,7,1,3,3.00,0.2,3,0,1
+"sherman, anthony",RB,2,anthony-sherman-sherman01/,2012,Arizona (NFL),13,4,0,0,0.00,0.0,0,0,0
+"sherman, anthony",RB,3,anthony-sherman-sherman01/,2013,Kansas City (NFL),16,8,2,3,1.50,0.2,2,0,1
+"sherman, anthony",RB,4,anthony-sherman-sherman01/,2014,Kansas City (NFL),16,6,2,8,4.00,0.5,4,0,1
+"sherman, anthony",RB,5,anthony-sherman-sherman01/,2015,Kansas City (NFL),16,2,1,0,0.00,0.0,0,0,0
+"sherman, anthony",RB,6,anthony-sherman-sherman01/,2016,Kansas City (NFL),16,3,0,0,0.00,0.0,0,0,0
+"foster, arian",RB,1,arian-foster-fostear01/,2009,Houston (NFL),6,1,54,257,4.76,42.8,24,3,15
+"foster, arian",RB,2,arian-foster-fostear01/,2010,Houston (NFL),16,13,327,"1,616",4.94,101.0,74t,16,89
+"foster, arian",RB,3,arian-foster-fostear01/,2011,Houston (NFL),13,13,278,"1,224",4.40,94.2,43,10,58
+"foster, arian",RB,4,arian-foster-fostear01/,2012,Houston (NFL),16,16,351,"1,424",4.06,89.0,46,15,78
+"foster, arian",RB,5,arian-foster-fostear01/,2013,Houston (NFL),8,8,121,542,4.48,67.8,23,1,31
+"foster, arian",RB,6,arian-foster-fostear01/,2014,Houston (NFL),13,13,260,"1,246",4.79,95.8,51,8,52
+"foster, arian",RB,7,arian-foster-fostear01/,2015,Houston (NFL),4,4,63,163,2.59,40.8,16,1,11
+"foster, arian",RB,8,arian-foster-fostear01/,2016,Miami (NFL),4,2,22,55,2.50,13.8,9,0,2
+"allen, armando",RB,1,armando-allen-allenar02/,2011,Chicago (NFL),2,0,15,48,3.20,24.0,13,0,3
+"allen, armando",RB,2,armando-allen-allenar02/,2012,Chicago (NFL),15,0,27,124,4.59,8.3,46t,1,6
+"smith, armond",RB,1,armond-smith-smithar04/,2011,Cleveland (NFL),3,0,3,2,0.67,0.7,6,0,0
+"smith, armond",RB,2,armond-smith-smithar04/,2012,Carolina (NFL),4,0,3,0,0.00,0.0,3,0,0
+"smith, armond",RB,3,armond-smith-smithar04/,2013,Carolina (NFL),5,0,4,5,1.25,1.0,5,0,0
+"tate, ben",RB,1,ben-tate-tatebe02/,2010,Houston (NFL),0,0,0,0,0.00,0.0,0,0,0
+"tate, ben",RB,2,ben-tate-tatebe02/,2011,Houston (NFL),15,2,175,942,5.38,62.8,56,4,53
+"tate, ben",RB,3,ben-tate-tatebe02/,2012,Houston (NFL),11,0,65,279,4.29,25.4,25,2,17
+"tate, ben",RB,4,ben-tate-tatebe02/,2013,Houston (NFL),14,7,181,771,4.26,55.1,60,4,34
+"tate, ben",RB,5,ben-tate-tatebe02/,2014,Cleveland (NFL),8,6,106,333,3.14,41.6,25,4,15
+"tate, ben",RB,5,ben-tate-tatebe02/, ,Minnesota (NFL),3,0,13,38,2.92,12.7,9,0,3
+"tate, ben",RB,5,ben-tate-tatebe02/, ,Pittsburgh (NFL),0,0,0,0,0.00,0.0,0,0,0
+"greenellis, benjarvus",RB,1,benjarvus-greenellis-greenbe02/,2008,New England (NFL),9,3,74,275,3.72,30.6,15,5,23
+"greenellis, benjarvus",RB,2,benjarvus-greenellis-greenbe02/,2009,New England (NFL),12,0,26,114,4.38,9.5,29,0,6
+"greenellis, benjarvus",RB,3,benjarvus-greenellis-greenbe02/,2010,New England (NFL),16,11,229,"1,008",4.40,63.0,33t,13,62
+"greenellis, benjarvus",RB,4,benjarvus-greenellis-greenbe02/,2011,New England (NFL),16,6,181,667,3.69,41.7,18,11,41
+"greenellis, benjarvus",RB,5,benjarvus-greenellis-greenbe02/,2012,Cincinnati (NFL),15,15,278,"1,094",3.94,72.9,48,6,54
+"greenellis, benjarvus",RB,6,benjarvus-greenellis-greenbe02/,2013,Cincinnati (NFL),16,16,220,756,3.44,47.2,25,7,48
+"scott, bernard",RB,1,bernard-scott-scottbe02/,2009,Cincinnati (NFL),13,2,74,321,4.34,24.7,61,0,15
+"scott, bernard",RB,2,bernard-scott-scottbe02/,2010,Cincinnati (NFL),16,0,61,299,4.90,18.7,18,1,16
+"scott, bernard",RB,3,bernard-scott-scottbe02/,2011,Cincinnati (NFL),16,1,112,380,3.39,23.8,25t,3,20
+"scott, bernard",RB,4,bernard-scott-scottbe02/,2012,Cincinnati (NFL),2,0,8,35,4.38,17.5,29,0,2
+"scott, bernard",RB,5,bernard-scott-scottbe02/,2013,Baltimore (NFL),2,0,4,14,3.50,7.0,9,0,0
+"powell, bilal",RB,1,bilal-powell-powelbi01/,2011,NY Jets (NFL),2,0,13,21,1.61,10.5,6,0,1
+"powell, bilal",RB,2,bilal-powell-powelbi01/,2012,NY Jets (NFL),14,2,110,437,3.97,31.2,18,4,23
+"powell, bilal",RB,3,bilal-powell-powelbi01/,2013,NY Jets (NFL),16,11,176,697,3.96,43.6,39,1,35
+"powell, bilal",RB,4,bilal-powell-powelbi01/,2014,NY Jets (NFL),15,1,33,141,4.27,9.4,15,1,7
+"powell, bilal",RB,5,bilal-powell-powelbi01/,2015,NY Jets (NFL),11,2,70,313,4.47,28.5,24,1,18
+"powell, bilal",RB,6,bilal-powell-powelbi01/,2016,NY Jets (NFL),16,4,131,722,5.51,45.1,35t,3,45
+"jacobs, brandon",RB,1,brandon-jacobs-jacobbr01/,2005,NY Giants (NFL),16,0,38,99,2.60,6.2,21,7,19
+"jacobs, brandon",RB,2,brandon-jacobs-jacobbr01/,2006,NY Giants (NFL),15,0,96,423,4.41,28.2,16,9,33
+"jacobs, brandon",RB,3,brandon-jacobs-jacobbr01/,2007,NY Giants (NFL),11,9,202,"1,009",5.00,91.7,43t,4,49
+"jacobs, brandon",RB,4,brandon-jacobs-jacobbr01/,2008,NY Giants (NFL),13,13,219,"1,089",4.97,83.8,44,15,57
+"jacobs, brandon",RB,5,brandon-jacobs-jacobbr01/,2009,NY Giants (NFL),15,15,224,835,3.73,55.7,31,5,43
+"jacobs, brandon",RB,6,brandon-jacobs-jacobbr01/,2010,NY Giants (NFL),16,5,147,823,5.60,51.4,73,9,39
+"jacobs, brandon",RB,7,brandon-jacobs-jacobbr01/,2011,NY Giants (NFL),14,6,152,571,3.76,40.8,28,7,32
+"jacobs, brandon",RB,8,brandon-jacobs-jacobbr01/,2012,San Francisco (NFL),2,0,5,7,1.40,3.5,3,0,1
+"jacobs, brandon",RB,9,brandon-jacobs-jacobbr01/,2013,NY Giants (NFL),7,1,58,238,4.10,34.0,37,4,16
+"saine, brandon",RB,1,brandon-saine-sainebr01/,2011,Green Bay (NFL),8,0,18,69,3.83,8.6,10,0,1
+"saine, brandon",RB,2,brandon-saine-sainebr01/,2012,Green Bay (NFL),6,0,0,0,0.00,0.0,0,0,0
+"leonard, brian",RB,1,brian-leonard-leonabr01/,2007,St. Louis (NFL),16,7,86,303,3.52,18.9,31,0,14
+"leonard, brian",RB,2,brian-leonard-leonabr01/,2008,St. Louis (NFL),2,0,2,7,3.50,3.5,5,0,0
+"leonard, brian",RB,3,brian-leonard-leonabr01/,2009,Cincinnati (NFL),14,1,27,84,3.11,6.0,11,0,6
+"leonard, brian",RB,4,brian-leonard-leonabr01/,2010,Cincinnati (NFL),11,0,9,61,6.78,5.5,42,0,4
+"leonard, brian",RB,5,brian-leonard-leonabr01/,2011,Cincinnati (NFL),13,0,17,85,5.00,6.5,14,0,5
+"leonard, brian",RB,6,brian-leonard-leonabr01/,2012,Cincinnati (NFL),15,0,33,106,3.21,7.1,11,0,7
+"leonard, brian",RB,7,brian-leonard-leonabr01/,2013,Tampa Bay (NFL),16,1,47,182,3.87,11.4,24,0,12
+"leonard, brian",RB,8,brian-leonard-leonabr01/,2014,New Orleans (NFL),1,0,0,0,0.00,0.0,0,0,0
+"miller, brit",RB,1,brit-miller-millebr07/,2009,San Francisco (NFL),5,0,0,0,0.00,0.0,0,0,0
+"miller, brit",RB,2,brit-miller-millebr07/,2010,St. Louis (NFL),9,2,0,0,0.00,0.0,0,0,0
+"miller, brit",RB,3,brit-miller-millebr07/,2011,St. Louis (NFL),12,1,5,14,2.80,1.2,12,0,1
+"miller, brit",RB,4,brit-miller-millebr07/,2012,St. Louis (NFL),9,1,0,0,0.00,0.0,0,0,0
+"bolen, brock",RB,1,brock-bolen-bolenbr01/,2009,Jacksonville (NFL),3,0,0,0,0.00,0.0,0,0,0
+"bolen, brock",RB,2,brock-bolen-bolenbr01/,2010,Jacksonville (NFL),4,0,0,0,0.00,0.0,0,0,0
+"bolen, brock",RB,3,brock-bolen-bolenbr01/,2011,Jacksonville (NFL),13,0,2,14,7.00,1.1,10,0,1
+"bolen, brock",RB,4,brock-bolen-bolenbr01/,2012,Jacksonville (NFL),0,0,0,0,0.00,0.0,0,0,0
+"spiller, cj",RB,1,cj-spiller-spillcj02/,2010,Buffalo (NFL),14,1,74,283,3.82,20.2,20,0,10
+"spiller, cj",RB,2,cj-spiller-spillcj02/,2011,Buffalo (NFL),16,11,107,561,5.24,35.1,38,4,26
+"spiller, cj",RB,3,cj-spiller-spillcj02/,2012,Buffalo (NFL),16,9,207,"1,244",6.01,77.8,62,6,52
+"spiller, cj",RB,4,cj-spiller-spillcj02/,2013,Buffalo (NFL),15,10,202,933,4.62,62.2,77,2,26
+"spiller, cj",RB,5,cj-spiller-spillcj02/,2014,Buffalo (NFL),9,5,78,300,3.85,33.3,53,0,12
+"spiller, cj",RB,6,cj-spiller-spillcj02/,2015,New Orleans (NFL),13,2,36,112,3.11,8.6,11,0,5
+"spiller, cj",RB,7,cj-spiller-spillcj02/,2016,Seattle (NFL),2,0,3,9,3.00,4.5,13,0,0
+"spiller, cj",RB,7,cj-spiller-spillcj02/, ,NY Jets (NFL),4,0,3,9,3.00,2.2,4,0,2
+"williams, carnell",RB,1,carnell-williams-willica03/,2005,Tampa Bay (NFL),14,14,290,"1,178",4.06,84.1,71t,6,54
+"williams, carnell",RB,2,carnell-williams-willica03/,2006,Tampa Bay (NFL),14,14,225,798,3.55,57.0,38,1,32
+"williams, carnell",RB,3,carnell-williams-willica03/,2007,Tampa Bay (NFL),4,4,54,208,3.85,52.0,20,3,12
+"williams, carnell",RB,4,carnell-williams-willica03/,2008,Tampa Bay (NFL),6,1,63,233,3.70,38.8,28,4,17
+"williams, carnell",RB,5,carnell-williams-willica03/,2009,Tampa Bay (NFL),16,15,211,823,3.90,51.4,35,4,43
+"williams, carnell",RB,6,carnell-williams-willica03/,2010,Tampa Bay (NFL),16,9,125,437,3.50,27.3,45t,2,19
+"williams, carnell",RB,7,carnell-williams-willica03/,2011,St. Louis (NFL),11,1,87,361,4.15,32.8,23,1,19
+"benson, cedric",RB,1,cedric-benson-bensoce01/,2005,Chicago (NFL),9,1,67,272,4.06,30.2,36,0,12
+"benson, cedric",RB,2,cedric-benson-bensoce01/,2006,Chicago (NFL),15,0,157,647,4.12,43.1,30,6,33
+"benson, cedric",RB,3,cedric-benson-bensoce01/,2007,Chicago (NFL),11,11,196,674,3.44,61.3,43t,4,33
+"benson, cedric",RB,4,cedric-benson-bensoce01/,2008,Cincinnati (NFL),12,10,214,747,3.49,62.2,46,2,36
+"benson, cedric",RB,5,cedric-benson-bensoce01/,2009,Cincinnati (NFL),13,13,301,"1,251",4.16,96.2,42,6,57
+"benson, cedric",RB,6,cedric-benson-bensoce01/,2010,Cincinnati (NFL),16,16,321,"1,111",3.46,69.4,26,7,59
+"benson, cedric",RB,7,cedric-benson-bensoce01/,2011,Cincinnati (NFL),15,15,273,"1,067",3.91,71.1,42,6,53
+"benson, cedric",RB,8,cedric-benson-bensoce01/,2012,Green Bay (NFL),5,5,71,248,3.49,49.6,11,1,10
+"peerman, cedric",RB,1,cedric-peerman-peermce01/,2009,Baltimore (NFL),0,0,0,0,0.00,0.0,0,0,0
+"peerman, cedric",RB,1,cedric-peerman-peermce01/, ,Detroit (NFL),2,0,0,0,0.00,0.0,0,0,0
+"peerman, cedric",RB,1,cedric-peerman-peermce01/, ,Cleveland (NFL),0,0,0,0,0.00,0.0,0,0,0
+"peerman, cedric",RB,2,cedric-peerman-peermce01/,2010,Cincinnati (NFL),7,0,2,1,0.50,0.1,1,0,0
+"peerman, cedric",RB,3,cedric-peerman-peermce01/,2011,Cincinnati (NFL),15,0,3,15,5.00,1.0,11,0,0
+"peerman, cedric",RB,4,cedric-peerman-peermce01/,2012,Cincinnati (NFL),14,1,36,258,7.17,18.4,48,1,10
+"peerman, cedric",RB,5,cedric-peerman-peermce01/,2013,Cincinnati (NFL),16,0,8,17,2.12,1.1,5,0,0
+"peerman, cedric",RB,6,cedric-peerman-peermce01/,2014,Cincinnati (NFL),16,0,15,43,2.87,2.7,21,0,2
+"peerman, cedric",RB,7,cedric-peerman-peermce01/,2015,Cincinnati (NFL),16,0,0,0,0.00,0.0,0,0,0
+"peerman, cedric",RB,8,cedric-peerman-peermce01/,2016,Cincinnati (NFL),6,0,6,15,2.50,2.5,4,0,0
+"washington, chauncey",RB,1,chauncey-washington-washich04/,2008,Jacksonville (NFL),6,0,4,9,2.25,1.5,6,0,1
+"washington, chauncey",RB,2,chauncey-washington-washich04/,2009,NY Jets (NFL),0,0,0,0,0.00,0.0,0,0,0
+"washington, chauncey",RB,2,chauncey-washington-washich04/, ,Dallas (NFL),2,0,0,0,0.00,0.0,0,0,0
+"washington, chauncey",RB,3,chauncey-washington-washich04/,2010,St. Louis (NFL),1,0,0,0,0.00,0.0,0,0,0
+"washington, chauncey",RB,4,chauncey-washington-washich04/,2011,Dallas (NFL),2,0,1,-1,-1.00,-0.5,-1,0,0
+"taylor, chester",RB,1,chester-taylor-tayloch01/,2002,Baltimore (NFL),15,2,33,122,3.70,8.1,17,0,4
+"taylor, chester",RB,2,chester-taylor-tayloch01/,2003,Baltimore (NFL),16,1,63,276,4.38,17.2,32,2,12
+"taylor, chester",RB,3,chester-taylor-tayloch01/,2004,Baltimore (NFL),16,4,160,714,4.46,44.6,47,2,35
+"taylor, chester",RB,4,chester-taylor-tayloch01/,2005,Baltimore (NFL),15,1,117,487,4.16,32.5,52,0,29
+"taylor, chester",RB,5,chester-taylor-tayloch01/,2006,Minnesota (NFL),15,15,303,"1,216",4.01,81.1,95t,6,53
+"taylor, chester",RB,6,chester-taylor-tayloch01/,2007,Minnesota (NFL),14,8,157,844,5.38,60.3,84t,7,35
+"taylor, chester",RB,7,chester-taylor-tayloch01/,2008,Minnesota (NFL),16,1,101,399,3.95,24.9,21t,4,19
+"taylor, chester",RB,8,chester-taylor-tayloch01/,2009,Minnesota (NFL),16,0,94,338,3.60,21.1,25,1,11
+"taylor, chester",RB,9,chester-taylor-tayloch01/,2010,Chicago (NFL),16,1,112,267,2.38,16.7,24,3,16
+"taylor, chester",RB,10,chester-taylor-tayloch01/,2011,Arizona (NFL),12,1,20,77,3.85,6.4,34,1,4
+"ivory, chris",RB,1,chris-ivory-ivorych01/,2010,New Orleans (NFL),12,4,137,716,5.23,59.7,55t,5,44
+"ivory, chris",RB,2,chris-ivory-ivorych01/,2011,New Orleans (NFL),6,2,79,374,4.73,62.3,35t,1,21
+"ivory, chris",RB,3,chris-ivory-ivorych01/,2012,New Orleans (NFL),6,2,40,217,5.42,36.2,56t,2,7
+"ivory, chris",RB,4,chris-ivory-ivorych01/,2013,NY Jets (NFL),15,6,182,833,4.58,55.5,69,3,34
+"ivory, chris",RB,5,chris-ivory-ivorych01/,2014,NY Jets (NFL),16,10,198,821,4.15,51.3,71t,6,42
+"ivory, chris",RB,6,chris-ivory-ivorych01/,2015,NY Jets (NFL),15,14,247,"1,070",4.33,71.3,58,7,50
+"ivory, chris",RB,7,chris-ivory-ivorych01/,2016,Jacksonville (NFL),11,1,117,439,3.75,39.9,42,3,21
+"johnson, chris",RB,1,chris-johnson-johnsch19/,2008,Tennessee (NFL),15,14,251,"1,228",4.89,81.9,66t,9,54
+"johnson, chris",RB,2,chris-johnson-johnsch19/,2009,Tennessee (NFL),16,16,358,"2,006",5.60,125.4,91t,14,79
+"johnson, chris",RB,3,chris-johnson-johnsch19/,2010,Tennessee (NFL),16,16,316,"1,364",4.32,85.2,76t,11,55
+"johnson, chris",RB,4,chris-johnson-johnsch19/,2011,Tennessee (NFL),16,16,262,"1,047",4.00,65.4,48t,4,47
+"johnson, chris",RB,5,chris-johnson-johnsch19/,2012,Tennessee (NFL),16,15,276,"1,243",4.50,77.7,94t,6,45
+"johnson, chris",RB,6,chris-johnson-johnsch19/,2013,Tennessee (NFL),16,16,279,"1,077",3.86,67.3,30t,6,54
+"johnson, chris",RB,7,chris-johnson-johnsch19/,2014,NY Jets (NFL),16,6,155,663,4.28,41.4,47,1,21
+"johnson, chris",RB,8,chris-johnson-johnsch19/,2015,Arizona (NFL),11,9,196,814,4.15,74.0,62,3,31
+"johnson, chris",RB,9,chris-johnson-johnsch19/,2016,Arizona (NFL),4,0,25,95,3.80,23.8,18,1,5
+"ogbonnaya, chris",RB,1,chris-ogbonnaya-ogbonch01/,2009,St. Louis (NFL),2,0,11,50,4.54,25.0,18,0,2
+"ogbonnaya, chris",RB,2,chris-ogbonnaya-ogbonch01/,2011,Houston (NFL),2,0,3,6,2.00,3.0,4,0,0
+"ogbonnaya, chris",RB,2,chris-ogbonnaya-ogbonch01/, ,Cleveland (NFL),11,4,73,334,4.58,30.4,40,1,13
+"ogbonnaya, chris",RB,3,chris-ogbonnaya-ogbonch01/,2012,Cleveland (NFL),15,1,8,30,3.75,2.0,9,0,1
+"ogbonnaya, chris",RB,4,chris-ogbonnaya-ogbonch01/,2013,Cleveland (NFL),16,7,49,240,4.90,15.0,43,0,14
+"ogbonnaya, chris",RB,5,chris-ogbonnaya-ogbonch01/,2014,Carolina (NFL),5,0,14,50,3.57,10.0,9,1,3
+"ogbonnaya, chris",RB,5,chris-ogbonnaya-ogbonch01/, ,NY Giants (NFL),2,0,0,0,0.00,0.0,0,0,0
+"pressley, chris",RB,1,chris-pressley-pressch01/,2009,Tampa Bay (NFL),7,3,1,0,0.00,0.0,0,0,0
+"pressley, chris",RB,2,chris-pressley-pressch01/,2010,Tampa Bay (NFL),3,0,0,0,0.00,0.0,0,0,0
+"pressley, chris",RB,2,chris-pressley-pressch01/, ,Cincinnati (NFL),4,0,1,0,0.00,0.0,0,0,0
+"pressley, chris",RB,3,chris-pressley-pressch01/,2011,Cincinnati (NFL),15,10,0,0,0.00,0.0,0,0,0
+"pressley, chris",RB,4,chris-pressley-pressch01/,2012,Cincinnati (NFL),14,7,0,0,0.00,0.0,0,0,0
+"mcintyre, corey",RB,1,corey-mcintyre-mcintco01/,2003,Frankfurt (NFLE),--,--,0,0,0.00,--,0,0,--
+"mcintyre, corey",RB,2,corey-mcintyre-mcintco01/,2004,Frankfurt (NFLE),--,--,0,0,0.00,--,0,0,--
+"mcintyre, corey",RB,3,corey-mcintyre-mcintco01/,2005,Cleveland (NFL),15,1,0,0,0.00,0.0,0,0,0
+"mcintyre, corey",RB,4,corey-mcintyre-mcintco01/,2006,New Orleans (NFL),4,0,0,0,0.00,0.0,0,0,0
+"mcintyre, corey",RB,4,corey-mcintyre-mcintco01/, ,Atlanta (NFL),0,0,0,0,0.00,0.0,0,0,0
+"mcintyre, corey",RB,5,corey-mcintyre-mcintco01/,2007,Atlanta (NFL),14,0,0,0,0.00,0.0,0,0,0
+"mcintyre, corey",RB,6,corey-mcintyre-mcintco01/,2008,Buffalo (NFL),11,2,0,0,0.00,0.0,0,0,0
+"mcintyre, corey",RB,7,corey-mcintyre-mcintco01/,2009,Buffalo (NFL),15,4,5,34,6.80,2.3,25,0,1
+"mcintyre, corey",RB,8,corey-mcintyre-mcintco01/,2010,Buffalo (NFL),16,7,4,5,1.25,0.3,2,1,3
+"mcintyre, corey",RB,9,corey-mcintyre-mcintco01/,2011,Buffalo (NFL),16,1,0,0,0.00,0.0,0,0,0
+"mcintyre, corey",RB,10,corey-mcintyre-mcintco01/,2012,Buffalo (NFL),16,3,0,0,0.00,0.0,0,0,0
+"brinkley, curtis",RB,1,curtis-brinkley-brinkcu01/,2010,San Diego (NFL),3,0,2,11,5.50,3.7,9,0,1
+"brinkley, curtis",RB,2,curtis-brinkley-brinkcu01/,2011,San Diego (NFL),10,1,30,101,3.37,10.1,12,1,4
+"brinkley, curtis",RB,3,curtis-brinkley-brinkcu01/,2012,San Diego (NFL),10,1,39,115,2.95,11.5,13,0,8
+"thomas, daniel",RB,1,daniel-thomas-thomada05/,2011,Miami (NFL),13,2,165,581,3.52,44.7,28,0,24
+"thomas, daniel",RB,2,daniel-thomas-thomada05/,2012,Miami (NFL),12,0,91,325,3.57,27.1,20,4,15
+"thomas, daniel",RB,3,daniel-thomas-thomada05/,2013,Miami (NFL),15,1,109,406,3.73,27.1,55,4,17
+"thomas, daniel",RB,4,daniel-thomas-thomada05/,2014,Miami (NFL),12,0,44,168,3.82,14.0,15,2,9
+"woodhead, danny",RB,1,danny-woodhead-woodhda01/,2009,NY Jets (NFL),10,0,15,64,4.27,6.4,16,0,2
+"woodhead, danny",RB,2,danny-woodhead-woodhda01/,2010,NY Jets (NFL),1,0,0,0,0.00,0.0,0,0,0
+"woodhead, danny",RB,2,danny-woodhead-woodhda01/, ,New England (NFL),14,3,97,547,5.64,39.1,36t,5,23
+"woodhead, danny",RB,3,danny-woodhead-woodhda01/,2011,New England (NFL),15,4,77,351,4.56,23.4,12,1,18
+"woodhead, danny",RB,4,danny-woodhead-woodhda01/,2012,New England (NFL),16,2,76,301,3.96,18.8,19,4,19
+"woodhead, danny",RB,5,danny-woodhead-woodhda01/,2013,San Diego (NFL),16,2,106,429,4.05,26.8,14,2,26
+"woodhead, danny",RB,6,danny-woodhead-woodhda01/,2014,San Diego (NFL),3,0,15,38,2.53,12.7,13,0,2
+"woodhead, danny",RB,7,danny-woodhead-woodhda01/,2015,San Diego (NFL),16,2,98,336,3.43,21.0,27,3,21
+"woodhead, danny",RB,8,danny-woodhead-woodhda01/,2016,San Diego (NFL),2,1,19,116,6.11,58.0,23,0,6
+"scott, darel",RB,1,darel-scott-scottda06/,2011,NY Giants (NFL),11,0,5,16,3.20,1.5,8,0,1
+"scott, darel",RB,2,darel-scott-scottda06/,2012,NY Giants (NFL),4,0,6,9,1.50,2.2,5,0,1
+"scott, darel",RB,3,darel-scott-scottda06/,2013,NY Giants (NFL),5,1,20,73,3.65,14.6,16,0,3
+"young, darrel",RB,1,darrel-young-youngda04/,2010,Washington (NFL),16,0,4,19,4.75,1.2,16,0,1
+"young, darrel",RB,2,darrel-young-youngda04/,2011,Washington (NFL),13,8,6,33,5.50,2.5,12,1,6
+"young, darrel",RB,3,darrel-young-youngda04/,2012,Washington (NFL),16,8,14,60,4.29,3.8,16,0,7
+"young, darrel",RB,4,darrel-young-youngda04/,2013,Washington (NFL),13,7,12,41,3.42,3.2,19,3,7
+"young, darrel",RB,5,darrel-young-youngda04/,2014,Washington (NFL),16,10,9,22,2.44,1.4,14,3,6
+"young, darrel",RB,6,darrel-young-youngda04/,2015,Washington (NFL),16,3,6,10,1.67,0.6,5,0,1
+"mcfadden, darren",RB,1,darren-mcfadden-mcfadda01/,2008,Oakland (NFL),13,5,113,499,4.42,38.4,50,4,24
+"mcfadden, darren",RB,2,darren-mcfadden-mcfadda01/,2009,Oakland (NFL),12,7,104,357,3.43,29.8,28,1,13
+"mcfadden, darren",RB,3,darren-mcfadden-mcfadda01/,2010,Oakland (NFL),13,13,223,"1,157",5.19,89.0,57t,7,45
+"mcfadden, darren",RB,4,darren-mcfadden-mcfadda01/,2011,Oakland (NFL),7,7,113,614,5.43,87.7,70t,4,23
+"mcfadden, darren",RB,5,darren-mcfadden-mcfadda01/,2012,Oakland (NFL),12,12,216,707,3.27,58.9,64t,2,33
+"mcfadden, darren",RB,6,darren-mcfadden-mcfadda01/,2013,Oakland (NFL),10,7,114,379,3.33,37.9,30,5,16
+"mcfadden, darren",RB,7,darren-mcfadden-mcfadda01/,2014,Oakland (NFL),16,12,155,534,3.44,33.4,25,2,20
+"mcfadden, darren",RB,8,darren-mcfadden-mcfadda01/,2015,Dallas (NFL),16,10,239,"1,089",4.56,68.1,50,3,52
+"mcfadden, darren",RB,9,darren-mcfadden-mcfadda01/,2016,Dallas (NFL),3,1,24,87,3.62,29.0,24,0,5
+"sproles, darren",RB,1,darren-sproles-sprolda01/,2005,San Diego (NFL),15,0,8,50,6.25,3.3,21,0,2
+"sproles, darren",RB,2,darren-sproles-sprolda01/,2007,San Diego (NFL),15,0,37,164,4.43,10.9,34,2,6
+"sproles, darren",RB,3,darren-sproles-sprolda01/,2008,San Diego (NFL),16,0,61,330,5.41,20.6,37,1,15
+"sproles, darren",RB,4,darren-sproles-sprolda01/,2009,San Diego (NFL),16,2,93,343,3.69,21.4,21,3,15
+"sproles, darren",RB,5,darren-sproles-sprolda01/,2010,San Diego (NFL),16,3,50,267,5.34,16.7,34,0,10
+"sproles, darren",RB,6,darren-sproles-sprolda01/,2011,New Orleans (NFL),16,4,87,603,6.93,37.7,36,2,27
+"sproles, darren",RB,7,darren-sproles-sprolda01/,2012,New Orleans (NFL),13,6,48,244,5.08,18.8,47,1,9
+"sproles, darren",RB,8,darren-sproles-sprolda01/,2013,New Orleans (NFL),15,4,53,220,4.15,14.7,38,2,11
+"sproles, darren",RB,9,darren-sproles-sprolda01/,2014,Philadelphia (NFL),15,0,57,329,5.77,21.9,49t,6,18
+"sproles, darren",RB,10,darren-sproles-sprolda01/,2015,Philadelphia (NFL),16,4,83,317,3.82,19.8,27,3,21
+"sproles, darren",RB,11,darren-sproles-sprolda01/,2016,Philadelphia (NFL),15,5,94,438,4.66,29.2,25t,2,22
+"williams, deangelo",RB,1,deangelo-williams-willide07/,2006,Carolina (NFL),13,2,121,501,4.14,38.5,31,1,30
+"williams, deangelo",RB,2,deangelo-williams-willide07/,2007,Carolina (NFL),16,0,144,717,4.98,44.8,75,4,27
+"williams, deangelo",RB,3,deangelo-williams-willide07/,2008,Carolina (NFL),16,16,273,"1,515",5.55,94.7,69t,18,66
+"williams, deangelo",RB,4,deangelo-williams-willide07/,2009,Carolina (NFL),13,13,216,"1,117",5.17,85.9,77,7,51
+"williams, deangelo",RB,5,deangelo-williams-willide07/,2010,Carolina (NFL),6,6,87,361,4.15,60.2,39t,1,12
+"williams, deangelo",RB,6,deangelo-williams-willide07/,2011,Carolina (NFL),16,14,155,836,5.39,52.2,74t,7,32
+"williams, deangelo",RB,7,deangelo-williams-willide07/,2012,Carolina (NFL),16,10,173,737,4.26,46.1,65,5,31
+"williams, deangelo",RB,8,deangelo-williams-willide07/,2013,Carolina (NFL),15,15,201,843,4.19,56.2,43t,3,35
+"williams, deangelo",RB,9,deangelo-williams-willide07/,2014,Carolina (NFL),6,6,62,219,3.53,36.5,17,0,6
+"williams, deangelo",RB,10,deangelo-williams-willide07/,2015,Pittsburgh (NFL),16,10,200,907,4.54,56.7,55,11,51
+"williams, deangelo",RB,11,deangelo-williams-willide07/,2016,Pittsburgh (NFL),9,4,98,343,3.50,38.1,17,4,20
+"karim, deji",RB,1,deji-karim-karimde01/,2010,Jacksonville (NFL),11,0,35,160,4.57,14.5,15,0,8
+"karim, deji",RB,2,deji-karim-karimde01/,2011,Jacksonville (NFL),12,0,63,130,2.06,10.8,14,0,9
+"karim, deji",RB,3,deji-karim-karimde01/,2012,Indianapolis (NFL),3,0,0,0,0.00,0.0,0,0,0
+"karim, deji",RB,4,deji-karim-karimde01/,2013,Houston (NFL),7,0,12,51,4.25,7.3,14,0,3
+"carter, delone",RB,1,delone-carter-cartede01/,1990,San Francisco (NFL),16,5,114,460,4.04,28.8,74t,1,--
+"carter, delone",RB,2,delone-carter-cartede01/,1991,San Francisco (NFL),16,15,85,379,4.46,23.7,53t,2,--
+"carter, delone",RB,3,delone-carter-cartede01/,1992,San Francisco (NFL),3,0,4,9,2.25,3.0,6,0,--
+"carter, delone",RB,4,delone-carter-cartede01/,1993,San Francisco (NFL),16,0,10,72,7.20,4.5,50t,1,--
+"carter, delone",RB,5,delone-carter-cartede01/,1994,San Francisco (NFL),16,0,8,34,4.25,2.1,18,0,--
+"carter, delone",RB,6,delone-carter-cartede01/,1995,NY Jets (NFL),10,0,0,0,0.00,0.0,0,0,--
+"carter, delone",RB,6,delone-carter-cartede01/, ,San Francisco (NFL),7,0,7,22,3.14,3.1,15,0,--
+"carter, delone",RB,7,delone-carter-cartede01/,1996,San Francisco (NFL),16,0,19,66,3.47,4.1,18,1,--
+"murray, demarco",RB,1,demarco-murray-murrade01/,2011,Dallas (NFL),13,7,164,897,5.47,69.0,91t,2,41
+"murray, demarco",RB,2,demarco-murray-murrade01/,2012,Dallas (NFL),10,10,161,663,4.12,66.3,48,4,39
+"murray, demarco",RB,3,demarco-murray-murrade01/,2013,Dallas (NFL),14,14,217,"1,121",5.17,80.1,43,9,59
+"murray, demarco",RB,4,demarco-murray-murrade01/,2014,Dallas (NFL),16,16,392,"1,845",4.71,115.3,51,13,85
+"murray, demarco",RB,5,demarco-murray-murrade01/,2015,Philadelphia (NFL),15,8,193,702,3.64,46.8,54t,6,47
+"murray, demarco",RB,6,demarco-murray-murrade01/,2016,Tennessee (NFL),16,16,293,"1,287",4.39,80.4,75t,9,64
+"ward, derrick",RB,1,derrick-ward-wardde02/,2004,NY Giants (NFL),5,0,0,0,0.00,0.0,0,0,0
+"ward, derrick",RB,2,derrick-ward-wardde02/,2005,NY Giants (NFL),14,0,35,123,3.51,8.8,12,0,7
+"ward, derrick",RB,3,derrick-ward-wardde02/,2006,NY Giants (NFL),8,0,0,0,0.00,0.0,0,0,0
+"ward, derrick",RB,4,derrick-ward-wardde02/,2007,NY Giants (NFL),8,5,125,602,4.82,75.2,44,3,28
+"ward, derrick",RB,5,derrick-ward-wardde02/,2008,NY Giants (NFL),16,3,182,"1,025",5.63,64.1,51,2,53
+"ward, derrick",RB,6,derrick-ward-wardde02/,2009,Tampa Bay (NFL),14,1,114,409,3.59,29.2,28,1,13
+"ward, derrick",RB,7,derrick-ward-wardde02/,2010,Houston (NFL),16,0,50,315,6.30,19.7,38t,4,17
+"ward, derrick",RB,8,derrick-ward-wardde02/,2011,Houston (NFL),12,1,45,154,3.42,12.8,15,2,11
+"mccluster, dexter",RB,1,dexter-mccluster-mcclude01/,2010,Kansas City (NFL),11,7,18,71,3.94,6.5,20,0,6
+"mccluster, dexter",RB,2,dexter-mccluster-mcclude01/,2011,Kansas City (NFL),16,4,114,516,4.53,32.2,32,1,28
+"mccluster, dexter",RB,3,dexter-mccluster-mcclude01/,2012,Kansas City (NFL),16,6,12,70,5.83,4.4,19,0,4
+"mccluster, dexter",RB,4,dexter-mccluster-mcclude01/,2013,Kansas City (NFL),15,6,8,5,0.62,0.3,5,0,0
+"mccluster, dexter",RB,5,dexter-mccluster-mcclude01/,2014,Tennessee (NFL),14,2,40,131,3.27,9.4,16,0,7
+"mccluster, dexter",RB,6,dexter-mccluster-mcclude01/,2015,Tennessee (NFL),11,2,55,247,4.49,22.5,44,1,6
+"mccluster, dexter",RB,7,dexter-mccluster-mcclude01/,2016,San Diego (NFL),6,0,3,2,0.67,0.3,2,0,0
+"lewis, dion",RB,1,dion-lewis-lewisdi01/,2011,Philadelphia (NFL),15,0,23,102,4.43,6.8,20,1,5
+"lewis, dion",RB,2,dion-lewis-lewisdi01/,2012,Philadelphia (NFL),9,0,13,69,5.31,7.7,17t,1,5
+"lewis, dion",RB,3,dion-lewis-lewisdi01/,2013,Cleveland (NFL),0,0,0,0,0.00,0.0,0,0,0
+"lewis, dion",RB,4,dion-lewis-lewisdi01/,2015,New England (NFL),7,6,49,234,4.78,33.4,13,2,15
+"lewis, dion",RB,5,dion-lewis-lewisdi01/,2016,New England (NFL),7,5,64,283,4.42,40.4,15,0,14
+"brown, donald",RB,1,donald-brown-browndo06/,2009,Indianapolis (NFL),11,1,78,281,3.60,25.5,45,3,14
+"brown, donald",RB,2,donald-brown-browndo06/,2010,Indianapolis (NFL),13,8,129,497,3.85,38.2,49,2,26
+"brown, donald",RB,3,donald-brown-browndo06/,2011,Indianapolis (NFL),16,2,134,645,4.81,40.3,80t,5,26
+"brown, donald",RB,4,donald-brown-browndo06/,2012,Indianapolis (NFL),10,4,108,417,3.86,41.7,19,1,20
+"brown, donald",RB,5,donald-brown-browndo06/,2013,Indianapolis (NFL),16,5,102,537,5.26,33.6,51t,6,20
+"brown, donald",RB,6,donald-brown-browndo06/,2014,San Diego (NFL),13,3,85,223,2.62,17.2,16,0,11
+"brown, donald",RB,7,donald-brown-browndo06/,2015,San Diego (NFL),10,2,59,229,3.88,22.9,53,1,12
+"harris, dujuan",RB,1,dujuan-harris-harridu03/,2011,Jacksonville (NFL),5,0,9,42,4.67,8.4,24,0,2
+"harris, dujuan",RB,2,dujuan-harris-harridu03/,2012,Green Bay (NFL),4,2,34,157,4.62,39.2,21,2,8
+"harris, dujuan",RB,3,dujuan-harris-harridu03/,2013,Green Bay (NFL),0,0,0,0,0.00,0.0,0,0,0
+"harris, dujuan",RB,4,dujuan-harris-harridu03/,2014,Green Bay (NFL),15,0,16,64,4.00,4.3,12,0,5
+"harris, dujuan",RB,5,dujuan-harris-harridu03/,2015,Seattle (NFL),2,0,21,49,2.33,24.5,6,0,2
+"harris, dujuan",RB,5,dujuan-harris-harridu03/, ,San Francisco (NFL),2,1,27,140,5.18,70.0,47,0,6
+"harris, dujuan",RB,6,dujuan-harris-harridu03/,2016,San Francisco (NFL),10,1,38,138,3.63,13.8,19,0,6
+"graham, earnest",RB,1,earnest-graham-grahaea01/,2004,Tampa Bay (NFL),9,0,13,73,5.62,8.1,13,0,2
+"graham, earnest",RB,2,earnest-graham-grahaea01/,2005,Tampa Bay (NFL),16,0,28,83,2.96,5.2,16,0,4
+"graham, earnest",RB,3,earnest-graham-grahaea01/,2006,Tampa Bay (NFL),16,0,11,59,5.36,3.7,17,0,3
+"graham, earnest",RB,4,earnest-graham-grahaea01/,2007,Tampa Bay (NFL),15,10,222,898,4.04,59.9,28t,10,46
+"graham, earnest",RB,5,earnest-graham-grahaea01/,2008,Tampa Bay (NFL),10,10,132,563,4.26,56.3,68t,4,26
+"graham, earnest",RB,6,earnest-graham-grahaea01/,2009,Tampa Bay (NFL),13,6,14,66,4.71,5.1,17,0,5
+"graham, earnest",RB,7,earnest-graham-grahaea01/,2010,Tampa Bay (NFL),12,7,20,99,4.95,8.2,61,1,5
+"graham, earnest",RB,8,earnest-graham-grahaea01/,2011,Tampa Bay (NFL),7,2,37,206,5.57,29.4,34,0,6
+"royster, evan",RB,1,evan-royster-roystev01/,2011,Washington (NFL),6,2,56,328,5.86,54.7,28,0,17
+"royster, evan",RB,2,evan-royster-roystev01/,2012,Washington (NFL),16,0,23,88,3.83,5.5,12,2,8
+"royster, evan",RB,3,evan-royster-roystev01/,2013,Washington (NFL),10,0,2,0,0.00,0.0,0,0,0
+"jones, felix",RB,1,felix-jones-jonesfe01/,2008,Dallas (NFL),6,0,30,266,8.87,44.3,60t,3,12
+"jones, felix",RB,2,felix-jones-jonesfe01/,2009,Dallas (NFL),14,1,116,685,5.91,48.9,56,3,24
+"jones, felix",RB,3,felix-jones-jonesfe01/,2010,Dallas (NFL),16,7,185,800,4.32,50.0,34,1,44
+"jones, felix",RB,4,felix-jones-jonesfe01/,2011,Dallas (NFL),12,8,127,575,4.53,47.9,40,1,27
+"jones, felix",RB,5,felix-jones-jonesfe01/,2012,Dallas (NFL),16,7,111,402,3.62,25.1,22t,3,23
+"jones, felix",RB,6,felix-jones-jonesfe01/,2013,Pittsburgh (NFL),16,2,48,184,3.83,11.5,14,0,9
+"gore, frank",RB,1,frank-gore-gorefr01/,2005,San Francisco (NFL),14,1,127,608,4.79,43.4,72t,3,26
+"gore, frank",RB,2,frank-gore-gorefr01/,2006,San Francisco (NFL),16,16,312,"1,695",5.43,105.9,72,8,68
+"gore, frank",RB,3,frank-gore-gorefr01/,2007,San Francisco (NFL),15,15,260,"1,102",4.24,73.5,43t,5,42
+"gore, frank",RB,4,frank-gore-gorefr01/,2008,San Francisco (NFL),14,14,240,"1,036",4.32,74.0,41t,6,45
+"gore, frank",RB,5,frank-gore-gorefr01/,2009,San Francisco (NFL),14,14,229,"1,120",4.89,80.0,80t,10,47
+"gore, frank",RB,6,frank-gore-gorefr01/,2010,San Francisco (NFL),11,11,203,853,4.20,77.5,64,3,42
+"gore, frank",RB,7,frank-gore-gorefr01/,2011,San Francisco (NFL),16,15,282,"1,211",4.29,75.7,55,8,53
+"gore, frank",RB,8,frank-gore-gorefr01/,2012,San Francisco (NFL),16,16,258,"1,214",4.71,75.9,37,8,67
+"gore, frank",RB,9,frank-gore-gorefr01/,2013,San Francisco (NFL),16,16,276,"1,128",4.09,70.5,51,9,55
+"gore, frank",RB,10,frank-gore-gorefr01/,2014,San Francisco (NFL),16,16,255,"1,106",4.34,69.1,52t,4,53
+"gore, frank",RB,11,frank-gore-gorefr01/,2015,Indianapolis (NFL),16,16,260,967,3.72,60.4,37t,6,44
+"gore, frank",RB,12,frank-gore-gorefr01/,2016,Indianapolis (NFL),16,16,263,"1,025",3.90,64.1,22,4,50
+"jackson, fred",RB,1,fred-jackson-jacksfr03/,2006,Rhein (NFLE),--,--,0,0,0.00,--,0,0,--
+"jackson, fred",RB,2,fred-jackson-jacksfr03/,2007,Buffalo (NFL),8,1,58,300,5.17,37.5,27,0,12
+"jackson, fred",RB,3,fred-jackson-jacksfr03/,2008,Buffalo (NFL),16,3,130,571,4.39,35.7,32,3,34
+"jackson, fred",RB,4,fred-jackson-jacksfr03/,2009,Buffalo (NFL),16,11,237,"1,062",4.48,66.4,43,2,43
+"jackson, fred",RB,5,fred-jackson-jacksfr03/,2010,Buffalo (NFL),16,13,222,927,4.18,57.9,39,5,42
+"jackson, fred",RB,6,fred-jackson-jacksfr03/,2011,Buffalo (NFL),10,10,170,934,5.49,93.4,80t,6,40
+"jackson, fred",RB,7,fred-jackson-jacksfr03/,2012,Buffalo (NFL),10,8,115,437,3.80,43.7,15,3,25
+"jackson, fred",RB,8,fred-jackson-jacksfr03/,2013,Buffalo (NFL),16,6,206,890,4.32,55.6,59,9,54
+"jackson, fred",RB,9,fred-jackson-jacksfr03/,2014,Buffalo (NFL),14,9,141,525,3.72,37.5,38,2,24
+"jackson, fred",RB,10,fred-jackson-jacksfr03/,2015,Seattle (NFL),16,0,26,100,3.85,6.2,16,0,5
+"jones, greg",RB,1,greg-jones-jonesgr03/,2004,Jacksonville (NFL),16,3,62,162,2.61,10.1,12,3,14
+"jones, greg",RB,2,greg-jones-jonesgr03/,2005,Jacksonville (NFL),14,13,151,575,3.81,41.1,27,4,32
+"jones, greg",RB,3,greg-jones-jonesgr03/,2007,Jacksonville (NFL),16,11,42,119,2.83,7.4,11,2,7
+"jones, greg",RB,4,greg-jones-jonesgr03/,2008,Jacksonville (NFL),12,7,2,13,6.50,1.1,13,0,1
+"jones, greg",RB,5,greg-jones-jonesgr03/,2009,Jacksonville (NFL),13,7,4,23,5.75,1.8,11,0,1
+"jones, greg",RB,6,greg-jones-jonesgr03/,2010,Jacksonville (NFL),16,13,2,4,2.00,0.2,3,0,0
+"jones, greg",RB,7,greg-jones-jonesgr03/,2011,Jacksonville (NFL),16,9,2,7,3.50,0.4,6,1,1
+"jones, greg",RB,8,greg-jones-jonesgr03/,2012,Jacksonville (NFL),12,4,5,8,1.60,0.7,4,0,3
+"jones, greg",RB,9,greg-jones-jonesgr03/,2013,Houston (NFL),16,5,2,2,1.00,0.1,4,0,0
+"hynoski, henry",RB,1,henry-hynoski-hynoshe02/,2011,NY Giants (NFL),11,4,0,0,0.00,0.0,0,0,0
+"hynoski, henry",RB,2,henry-hynoski-hynoshe02/,2012,NY Giants (NFL),16,11,5,20,4.00,1.2,5,0,0
+"hynoski, henry",RB,3,henry-hynoski-hynoshe02/,2013,NY Giants (NFL),3,2,0,0,0.00,0.0,0,0,0
+"hynoski, henry",RB,4,henry-hynoski-hynoshe02/,2014,NY Giants (NFL),16,4,7,13,1.86,0.8,4,0,4
+"redman, isaac",RB,1,isaac-redman-redmais01/,2009,Pittsburgh (NFL),1,0,0,0,0.00,0.0,0,0,0
+"redman, isaac",RB,2,isaac-redman-redmais01/,2010,Pittsburgh (NFL),16,0,52,247,4.75,15.4,23,0,21
+"redman, isaac",RB,3,isaac-redman-redmais01/,2011,Pittsburgh (NFL),16,1,110,479,4.36,29.9,27,3,29
+"redman, isaac",RB,4,isaac-redman-redmais01/,2012,Pittsburgh (NFL),14,5,110,410,3.73,29.3,28,2,27
+"redman, isaac",RB,5,isaac-redman-redmais01/,2013,Pittsburgh (NFL),3,1,10,12,1.20,4.0,8,0,0
+"battle, jackie",RB,1,jackie-battle-battlja01/,2007,Kansas City (NFL),3,0,14,47,3.36,15.7,6,1,3
+"battle, jackie",RB,2,jackie-battle-battlja01/,2008,Kansas City (NFL),9,0,0,0,0.00,0.0,0,0,0
+"battle, jackie",RB,3,jackie-battle-battlja01/,2009,Kansas City (NFL),5,0,7,21,3.00,4.2,12,0,3
+"battle, jackie",RB,4,jackie-battle-battlja01/,2010,Kansas City (NFL),16,0,20,50,2.50,3.1,7,1,7
+"battle, jackie",RB,5,jackie-battle-battlja01/,2011,Kansas City (NFL),15,4,149,597,4.01,39.8,34,2,27
+"battle, jackie",RB,6,jackie-battle-battlja01/,2012,San Diego (NFL),16,5,95,311,3.27,19.4,52,3,19
+"battle, jackie",RB,7,jackie-battle-battlja01/,2013,Tennessee (NFL),16,0,36,142,3.94,8.9,37,1,7
+"battle, jackie",RB,8,jackie-battle-battlja01/,2014,Tennessee (NFL),16,1,5,9,1.80,0.6,5,1,4
+"hester, jacob",RB,1,jacob-hester-hesteja01/,2008,San Diego (NFL),16,3,19,95,5.00,5.9,28,1,6
+"hester, jacob",RB,2,jacob-hester-hesteja01/,2009,San Diego (NFL),15,10,21,74,3.52,4.9,15,0,6
+"hester, jacob",RB,3,jacob-hester-hesteja01/,2010,San Diego (NFL),15,7,26,60,2.31,4.0,6,0,9
+"hester, jacob",RB,4,jacob-hester-hesteja01/,2011,San Diego (NFL),16,3,28,90,3.21,5.6,16,0,8
+"hester, jacob",RB,5,jacob-hester-hesteja01/,2012,Denver (NFL),3,0,17,81,4.76,27.0,18,2,5
+"rodgers, jacquizz",RB,1,jacquizz-rodgers-rodgeja01/,2011,Atlanta (NFL),16,0,57,205,3.60,12.8,13,1,15
+"rodgers, jacquizz",RB,2,jacquizz-rodgers-rodgeja01/,2012,Atlanta (NFL),16,0,94,362,3.85,22.6,43,1,16
+"rodgers, jacquizz",RB,3,jacquizz-rodgers-rodgeja01/,2013,Atlanta (NFL),15,4,96,332,3.46,22.1,19t,2,19
+"rodgers, jacquizz",RB,4,jacquizz-rodgers-rodgeja01/,2014,Atlanta (NFL),16,1,58,217,3.74,13.6,17t,1,12
+"rodgers, jacquizz",RB,5,jacquizz-rodgers-rodgeja01/,2015,Chicago (NFL),5,0,14,41,2.93,8.2,5,0,3
+"rodgers, jacquizz",RB,6,jacquizz-rodgers-rodgeja01/,2016,Tampa Bay (NFL),10,5,129,560,4.34,56.0,45,2,29
+"best, jahvid",RB,1,jahvid-best-bestja01/,2010,Detroit (NFL),16,9,171,555,3.25,34.7,45,4,25
+"best, jahvid",RB,2,jahvid-best-bestja01/,2011,Detroit (NFL),6,6,84,390,4.64,65.0,88t,2,15
+"charles, jamaal",RB,1,jamaal-charles-charlja01/,2008,Kansas City (NFL),16,2,67,357,5.33,22.3,30,0,17
+"charles, jamaal",RB,2,jamaal-charles-charlja01/,2009,Kansas City (NFL),15,10,190,"1,120",5.89,74.7,76t,7,54
+"charles, jamaal",RB,3,jamaal-charles-charlja01/,2010,Kansas City (NFL),16,6,230,"1,467",6.38,91.7,80,5,70
+"charles, jamaal",RB,4,jamaal-charles-charlja01/,2011,Kansas City (NFL),2,1,12,83,6.92,41.5,24,0,3
+"charles, jamaal",RB,5,jamaal-charles-charlja01/,2012,Kansas City (NFL),16,15,285,"1,509",5.29,94.3,91t,5,62
+"charles, jamaal",RB,6,jamaal-charles-charlja01/,2013,Kansas City (NFL),15,15,259,"1,287",4.97,85.8,46,12,72
+"charles, jamaal",RB,7,jamaal-charles-charlja01/,2014,Kansas City (NFL),15,15,206,"1,033",5.01,68.9,63t,9,50
+"charles, jamaal",RB,8,jamaal-charles-charlja01/,2015,Kansas City (NFL),5,5,71,364,5.13,72.8,34t,4,21
+"charles, jamaal",RB,9,jamaal-charles-charlja01/,2016,Kansas City (NFL),3,0,12,40,3.33,13.3,17,1,3
+"starks, james",RB,1,james-starks-starkja02/,2010,Green Bay (NFL),3,0,29,101,3.48,33.7,16,0,5
+"starks, james",RB,2,james-starks-starkja02/,2011,Green Bay (NFL),13,2,133,578,4.35,44.5,40,1,31
+"starks, james",RB,3,james-starks-starkja02/,2012,Green Bay (NFL),6,2,71,255,3.59,42.5,22t,1,12
+"starks, james",RB,4,james-starks-starkja02/,2013,Green Bay (NFL),13,1,89,493,5.54,37.9,41,3,27
+"starks, james",RB,5,james-starks-starkja02/,2014,Green Bay (NFL),16,0,85,333,3.92,20.8,41,2,16
+"starks, james",RB,6,james-starks-starkja02/,2015,Green Bay (NFL),16,4,148,601,4.06,37.6,65t,2,30
+"starks, james",RB,7,james-starks-starkja02/,2016,Green Bay (NFL),9,4,63,145,2.30,16.1,11,0,9
+"harper, jamie",RB,1,jamie-harper-harpeja01/,1967,Miami (AFL),--,--,41,197,4.80,--,37t,1,--
+"harper, jamie",RB,2,jamie-harper-harpeja01/,1968,Miami (AFL),--,--,0,0,0.00,--,0,0,--
+"snelling, jason",RB,1,jason-snelling-snellja01/,2007,Atlanta (NFL),7,0,13,43,3.31,6.1,17,1,6
+"snelling, jason",RB,2,jason-snelling-snellja01/,2008,Atlanta (NFL),16,1,15,62,4.13,3.9,13,0,5
+"snelling, jason",RB,3,jason-snelling-snellja01/,2009,Atlanta (NFL),14,2,142,613,4.32,43.8,31,4,37
+"snelling, jason",RB,4,jason-snelling-snellja01/,2010,Atlanta (NFL),14,0,87,324,3.72,23.1,30,2,21
+"snelling, jason",RB,5,jason-snelling-snellja01/,2011,Atlanta (NFL),15,0,44,151,3.43,10.1,18,0,8
+"snelling, jason",RB,6,jason-snelling-snellja01/,2012,Atlanta (NFL),16,2,18,63,3.50,3.9,11,0,3
+"snelling, jason",RB,7,jason-snelling-snellja01/,2013,Atlanta (NFL),14,1,44,164,3.73,11.7,17,1,9
+"ringer, javon",RB,1,javon-ringer-ringeja01/,2009,Tennessee (NFL),7,0,8,48,6.00,6.9,32,0,2
+"ringer, javon",RB,2,javon-ringer-ringeja01/,2010,Tennessee (NFL),16,0,51,239,4.69,14.9,54,2,10
+"ringer, javon",RB,3,javon-ringer-ringeja01/,2011,Tennessee (NFL),12,0,59,185,3.14,15.4,25,1,7
+"ringer, javon",RB,4,javon-ringer-ringeja01/,2012,Tennessee (NFL),2,0,2,14,7.00,7.0,9,0,0
+"johnson, jeremiah",RB,1,jeremiah-johnson-johnsje08/,2011,Denver (NFL),8,0,14,77,5.50,9.6,25,0,4
+"norwood, jerious",RB,1,jerious-norwood-norwoje01/,2006,Atlanta (NFL),14,0,99,633,6.39,45.2,78t,2,27
+"norwood, jerious",RB,2,jerious-norwood-norwoje01/,2007,Atlanta (NFL),15,2,103,613,5.95,40.9,67t,1,25
+"norwood, jerious",RB,3,jerious-norwood-norwoje01/,2008,Atlanta (NFL),16,0,95,489,5.15,30.6,45t,4,22
+"norwood, jerious",RB,4,jerious-norwood-norwoje01/,2009,Atlanta (NFL),10,4,76,252,3.32,25.2,21,0,11
+"norwood, jerious",RB,5,jerious-norwood-norwoje01/,2010,Atlanta (NFL),2,0,2,8,4.00,4.0,6,0,1
+"norwood, jerious",RB,6,jerious-norwood-norwoje01/,2011,St. Louis (NFL),9,0,24,61,2.54,6.8,10,0,1
+"felton, jerome",RB,1,jerome-felton-feltoje01/,2008,Detroit (NFL),13,6,2,4,2.00,0.3,4,0,0
+"felton, jerome",RB,2,jerome-felton-feltoje01/,2009,Detroit (NFL),13,8,15,46,3.07,3.5,10,0,7
+"felton, jerome",RB,3,jerome-felton-feltoje01/,2010,Detroit (NFL),16,2,22,76,3.46,4.8,9,0,3
+"felton, jerome",RB,4,jerome-felton-feltoje01/,2011,Carolina (NFL),9,1,3,10,3.33,1.1,4,0,3
+"felton, jerome",RB,4,jerome-felton-feltoje01/, ,Indianapolis (NFL),5,2,0,0,0.00,0.0,0,0,0
+"felton, jerome",RB,5,jerome-felton-feltoje01/,2012,Minnesota (NFL),16,7,0,0,0.00,0.0,0,0,0
+"felton, jerome",RB,6,jerome-felton-feltoje01/,2013,Minnesota (NFL),13,9,0,0,0.00,0.0,0,0,0
+"felton, jerome",RB,7,jerome-felton-feltoje01/,2014,Minnesota (NFL),16,3,4,27,6.75,1.7,21,0,2
+"felton, jerome",RB,8,jerome-felton-feltoje01/,2015,Buffalo (NFL),16,8,1,2,2.00,0.1,2,0,1
+"felton, jerome",RB,9,jerome-felton-feltoje01/,2016,Buffalo (NFL),15,4,8,13,1.62,0.9,6,0,5
+"harrison, jerome",RB,1,jerome-harrison-harrije02/,2006,Cleveland (NFL),10,1,20,60,3.00,6.0,15,0,4
+"harrison, jerome",RB,2,jerome-harrison-harrije02/,2007,Cleveland (NFL),8,0,23,142,6.17,17.8,17,0,8
+"harrison, jerome",RB,3,jerome-harrison-harrije02/,2008,Cleveland (NFL),15,0,34,246,7.24,16.4,72t,1,10
+"harrison, jerome",RB,4,jerome-harrison-harrije02/,2009,Cleveland (NFL),14,7,194,862,4.44,61.6,71t,5,37
+"harrison, jerome",RB,5,jerome-harrison-harrije02/,2010,Cleveland (NFL),4,1,31,91,2.94,22.8,39,0,3
+"harrison, jerome",RB,5,jerome-harrison-harrije02/, ,Philadelphia (NFL),8,1,40,239,5.97,29.9,50t,1,9
+"harrison, jerome",RB,6,jerome-harrison-harrije02/,2011,Detroit (NFL),4,0,14,41,2.93,10.2,9,0,3
+"mcknight, joe",RB,1,joe-mcknight-mcknijo01/,2010,NY Jets (NFL),9,1,39,189,4.85,21.0,18,0,7
+"mcknight, joe",RB,2,joe-mcknight-mcknijo01/,2011,NY Jets (NFL),15,0,43,134,3.12,8.9,11,0,8
+"mcknight, joe",RB,3,joe-mcknight-mcknijo01/,2012,NY Jets (NFL),15,0,30,179,5.97,11.9,61,0,7
+"mcknight, joe",RB,4,joe-mcknight-mcknijo01/,2014,Kansas City (NFL),2,0,1,3,3.00,1.5,3,0,0
+"kuhn, john",RB,1,john-kuhn-kuhnjo01/,2006,Pittsburgh (NFL),9,0,2,18,9.00,2.0,16,0,1
+"kuhn, john",RB,2,john-kuhn-kuhnjo01/,2007,Green Bay (NFL),16,1,0,0,0.00,0.0,0,0,0
+"kuhn, john",RB,3,john-kuhn-kuhnjo01/,2008,Green Bay (NFL),16,3,8,10,1.25,0.6,3,1,5
+"kuhn, john",RB,4,john-kuhn-kuhnjo01/,2009,Green Bay (NFL),14,6,8,18,2.25,1.3,5,1,2
+"kuhn, john",RB,5,john-kuhn-kuhnjo01/,2010,Green Bay (NFL),16,2,84,281,3.35,17.6,18,4,26
+"kuhn, john",RB,6,john-kuhn-kuhnjo01/,2011,Green Bay (NFL),16,3,30,78,2.60,4.9,12,4,9
+"kuhn, john",RB,7,john-kuhn-kuhnjo01/,2012,Green Bay (NFL),14,3,23,63,2.74,4.5,9,1,4
+"kuhn, john",RB,8,john-kuhn-kuhnjo01/,2013,Green Bay (NFL),15,6,10,38,3.80,2.5,12,1,7
+"kuhn, john",RB,9,john-kuhn-kuhnjo01/,2014,Green Bay (NFL),16,2,24,85,3.54,5.3,11,1,4
+"kuhn, john",RB,10,john-kuhn-kuhnjo01/,2015,Green Bay (NFL),16,6,9,28,3.11,1.8,5t,2,3
+"kuhn, john",RB,11,john-kuhn-kuhnjo01/,2016,New Orleans (NFL),16,3,18,37,2.06,2.3,4,4,12
+"white, johnny",RB,1,johnny-white-whitejo04/,2011,Buffalo (NFL),12,0,12,38,3.17,3.2,13,0,1
+"white, johnny",RB,2,johnny-white-whitejo04/,2012,Buffalo (NFL),3,0,8,34,4.25,11.3,9,0,1
+"white, johnny",RB,2,johnny-white-whitejo04/, ,Green Bay (NFL),4,0,0,0,0.00,0.0,0,0,0
+"dwyer, jonathan",RB,1,jonathan-dwyer-dwyerjo01/,2010,Pittsburgh (NFL),1,0,9,28,3.11,28.0,7,0,0
+"dwyer, jonathan",RB,2,jonathan-dwyer-dwyerjo01/,2011,Pittsburgh (NFL),7,0,16,123,7.69,17.6,76,0,2
+"dwyer, jonathan",RB,3,jonathan-dwyer-dwyerjo01/,2012,Pittsburgh (NFL),13,6,156,623,3.99,47.9,34,2,27
+"dwyer, jonathan",RB,4,jonathan-dwyer-dwyerjo01/,2013,Pittsburgh (NFL),15,0,49,197,4.02,13.1,30,0,16
+"dwyer, jonathan",RB,5,jonathan-dwyer-dwyerjo01/,2014,Arizona (NFL),2,0,16,51,3.19,25.5,20,1,3
+"stewart, jonathan",RB,1,jonathan-stewart-stewajo02/,2008,Carolina (NFL),16,0,184,836,4.54,52.2,41,10,42
+"stewart, jonathan",RB,2,jonathan-stewart-stewajo02/,2009,Carolina (NFL),16,3,221,"1,133",5.13,70.8,67t,10,54
+"stewart, jonathan",RB,3,jonathan-stewart-stewajo02/,2010,Carolina (NFL),14,7,178,770,4.33,55.0,48,2,32
+"stewart, jonathan",RB,4,jonathan-stewart-stewajo02/,2011,Carolina (NFL),16,3,142,761,5.36,47.6,32,4,47
+"stewart, jonathan",RB,5,jonathan-stewart-stewajo02/,2012,Carolina (NFL),9,6,93,336,3.61,37.3,21,1,14
+"stewart, jonathan",RB,6,jonathan-stewart-stewajo02/,2013,Carolina (NFL),6,1,48,180,3.75,30.0,16,0,7
+"stewart, jonathan",RB,7,jonathan-stewart-stewajo02/,2014,Carolina (NFL),13,8,175,809,4.62,62.2,69t,3,42
+"stewart, jonathan",RB,8,jonathan-stewart-stewajo02/,2015,Carolina (NFL),13,13,242,989,4.09,76.1,44,6,42
+"stewart, jonathan",RB,9,jonathan-stewart-stewajo02/,2016,Carolina (NFL),13,13,218,824,3.78,63.4,47,9,47
+"addai, joseph",RB,1,joseph-addai-addaijo01/,2006,Indianapolis (NFL),16,0,226,"1,081",4.78,67.6,41,7,66
+"addai, joseph",RB,2,joseph-addai-addaijo01/,2007,Indianapolis (NFL),15,15,261,"1,072",4.11,71.5,23,12,65
+"addai, joseph",RB,3,joseph-addai-addaijo01/,2008,Indianapolis (NFL),12,12,155,544,3.51,45.3,23,5,34
+"addai, joseph",RB,4,joseph-addai-addaijo01/,2009,Indianapolis (NFL),15,15,219,828,3.78,55.2,21t,10,44
+"addai, joseph",RB,5,joseph-addai-addaijo01/,2010,Indianapolis (NFL),8,7,116,495,4.27,61.9,46,4,31
+"addai, joseph",RB,6,joseph-addai-addaijo01/,2011,Indianapolis (NFL),12,11,118,433,3.67,36.1,16,1,16
+"vaughan, josh",RB,1,josh-vaughan-vaughjo03/,2010,Carolina (NFL),3,0,3,7,2.33,2.3,6,1,1
+"vaughan, josh",RB,2,josh-vaughan-vaughjo03/,2011,Carolina (NFL),7,0,7,24,3.43,3.4,9,0,0
+"vaughan, josh",RB,3,josh-vaughan-vaughjo03/,2013,Atlanta (NFL),6,0,1,1,1.00,0.2,1,0,0
+"forsett, justin",RB,1,justin-forsett-forseju01/,2008,Indianapolis (NFL),3,0,0,0,0.00,0.0,0,0,0
+"forsett, justin",RB,1,justin-forsett-forseju01/, ,Seattle (NFL),11,0,0,0,0.00,0.0,0,0,0
+"forsett, justin",RB,2,justin-forsett-forseju01/,2009,Seattle (NFL),16,2,114,619,5.43,38.7,35,4,29
+"forsett, justin",RB,3,justin-forsett-forseju01/,2010,Seattle (NFL),16,5,118,523,4.43,32.7,32,2,25
+"forsett, justin",RB,4,justin-forsett-forseju01/,2011,Seattle (NFL),16,0,46,145,3.15,9.1,22t,1,6
+"forsett, justin",RB,5,justin-forsett-forseju01/,2012,Houston (NFL),16,0,63,374,5.94,23.4,81t,1,13
+"forsett, justin",RB,6,justin-forsett-forseju01/,2013,Jacksonville (NFL),9,0,6,31,5.17,3.4,10,0,1
+"forsett, justin",RB,7,justin-forsett-forseju01/,2014,Baltimore (NFL),16,14,235,"1,266",5.39,79.1,52,8,56
+"forsett, justin",RB,8,justin-forsett-forseju01/,2015,Baltimore (NFL),10,10,151,641,4.25,64.1,33,2,41
+"forsett, justin",RB,9,justin-forsett-forseju01/,2016,Baltimore (NFL),3,3,31,98,3.16,32.7,11,0,3
+"forsett, justin",RB,9,justin-forsett-forseju01/, ,Detroit (NFL),2,0,13,38,2.92,19.0,9,0,1
+"forsett, justin",RB,9,justin-forsett-forseju01/, ,Denver (NFL),4,3,43,155,3.60,38.8,64,1,6
+"bell, kahlil",RB,1,kahlil-bell-bellka03/,2009,Chicago (NFL),7,0,40,220,5.50,31.4,72,0,9
+"bell, kahlil",RB,2,kahlil-bell-bellka03/,2010,Chicago (NFL),0,0,0,0,0.00,0.0,0,0,0
+"bell, kahlil",RB,3,kahlil-bell-bellka03/,2011,Chicago (NFL),13,3,79,337,4.27,25.9,26,0,14
+"bell, kahlil",RB,4,kahlil-bell-bellka03/,2012,Chicago (NFL),4,0,29,76,2.62,19.0,18,0,4
+"bell, kahlil",RB,4,kahlil-bell-bellka03/, ,NY Jets (NFL),3,0,0,0,0.00,0.0,0,0,0
+"bell, kahlil",RB,5,kahlil-bell-bellka03/,2013,Green Bay (NFL),3,0,0,0,0.00,0.0,0,0,0
+"hunter, kendall",RB,1,kendall-hunter-hunteke01/,2011,San Francisco (NFL),16,1,112,473,4.22,29.6,44,2,21
+"hunter, kendall",RB,2,kendall-hunter-hunteke01/,2012,San Francisco (NFL),11,0,72,371,5.15,33.7,26,2,18
+"hunter, kendall",RB,3,kendall-hunter-hunteke01/,2013,San Francisco (NFL),16,0,78,358,4.59,22.4,45,3,18
+"hunter, kendall",RB,4,kendall-hunter-hunteke01/,2015,New Orleans (NFL),2,0,1,2,2.00,1.0,2,0,0
+"faulk, kevin",RB,1,kevin-faulk-faulkke01/,1999,New England (NFL),11,2,67,227,3.39,20.6,43,1,--
+"faulk, kevin",RB,2,kevin-faulk-faulkke01/,2000,New England (NFL),16,9,164,570,3.48,35.6,18,4,32
+"faulk, kevin",RB,3,kevin-faulk-faulkke01/,2001,New England (NFL),15,1,41,169,4.12,11.3,24,1,9
+"faulk, kevin",RB,4,kevin-faulk-faulkke01/,2002,New England (NFL),15,0,52,271,5.21,18.1,45t,2,8
+"faulk, kevin",RB,5,kevin-faulk-faulkke01/,2003,New England (NFL),15,8,178,638,3.58,42.5,23,0,28
+"faulk, kevin",RB,6,kevin-faulk-faulkke01/,2004,New England (NFL),11,1,54,255,4.72,23.2,20,2,14
+"faulk, kevin",RB,7,kevin-faulk-faulkke01/,2005,New England (NFL),8,2,51,145,2.84,18.1,13,0,5
+"faulk, kevin",RB,8,kevin-faulk-faulkke01/,2006,New England (NFL),15,1,25,123,4.92,8.2,11t,1,6
+"faulk, kevin",RB,9,kevin-faulk-faulkke01/,2007,New England (NFL),16,8,62,265,4.27,16.6,14,0,15
+"faulk, kevin",RB,10,kevin-faulk-faulkke01/,2008,New England (NFL),15,3,83,507,6.11,33.8,41,3,24
+"faulk, kevin",RB,11,kevin-faulk-faulkke01/,2009,New England (NFL),15,7,62,335,5.40,22.3,29,2,18
+"faulk, kevin",RB,12,kevin-faulk-faulkke01/,2010,New England (NFL),2,2,8,45,5.62,22.5,11,0,1
+"faulk, kevin",RB,13,kevin-faulk-faulkke01/,2011,New England (NFL),7,3,17,57,3.35,8.1,9,0,1
+"smith, kevin",RB,1,kevin-smith-smithke12/,2008,Detroit (NFL),16,12,238,976,4.10,61.0,50,8,49
+"smith, kevin",RB,2,kevin-smith-smithke12/,2009,Detroit (NFL),13,13,217,747,3.44,57.5,31,4,36
+"smith, kevin",RB,3,kevin-smith-smithke12/,2010,Detroit (NFL),6,0,34,133,3.91,22.2,15,0,5
+"smith, kevin",RB,4,kevin-smith-smithke12/,2011,Detroit (NFL),7,4,72,356,4.94,50.9,43,4,16
+"smith, kevin",RB,5,kevin-smith-smithke12/,2012,Detroit (NFL),12,2,37,134,3.62,11.2,19,1,4
+"moreno, knowshon",RB,1,knowshon-moreno-morenkn01/,2009,Denver (NFL),16,9,247,947,3.83,59.2,36,7,52
+"moreno, knowshon",RB,2,knowshon-moreno-morenkn01/,2010,Denver (NFL),13,13,182,779,4.28,59.9,35,5,34
+"moreno, knowshon",RB,3,knowshon-moreno-morenkn01/,2011,Denver (NFL),7,2,37,179,4.84,25.6,24,0,5
+"moreno, knowshon",RB,4,knowshon-moreno-morenkn01/,2012,Denver (NFL),8,6,138,525,3.80,65.6,20,4,32
+"moreno, knowshon",RB,5,knowshon-moreno-morenkn01/,2013,Denver (NFL),16,15,241,"1,038",4.31,64.9,31,10,53
+"moreno, knowshon",RB,6,knowshon-moreno-morenkn01/,2014,Miami (NFL),3,0,31,148,4.77,49.3,15,1,8
+"lumpkin, kregg",RB,1,kregg-lumpkin-lumpkkr01/,2008,Green Bay (NFL),2,0,1,19,19.00,9.5,19,0,1
+"lumpkin, kregg",RB,2,kregg-lumpkin-lumpkkr01/,2010,Tampa Bay (NFL),11,0,1,0,0.00,0.0,0,0,0
+"lumpkin, kregg",RB,3,kregg-lumpkin-lumpkkr01/,2011,Tampa Bay (NFL),16,0,31,105,3.39,6.6,19,0,5
+"lumpkin, kregg",RB,4,kregg-lumpkin-lumpkkr01/,2012,NY Giants (NFL),5,0,9,42,4.67,8.4,22,0,2
+"tomlinson, ladainian",RB,1,ladainian-tomlinson-tomlila01/,2001,San Diego (NFL),16,16,339,"1,236",3.65,77.2,54,10,67
+"tomlinson, ladainian",RB,2,ladainian-tomlinson-tomlila01/,2002,San Diego (NFL),16,16,372,"1,683",4.52,105.2,76,14,91
+"tomlinson, ladainian",RB,3,ladainian-tomlinson-tomlila01/,2003,San Diego (NFL),16,16,313,"1,645",5.26,102.8,73t,13,81
+"tomlinson, ladainian",RB,4,ladainian-tomlinson-tomlila01/,2004,San Diego (NFL),15,15,339,"1,335",3.94,89.0,42,17,69
+"tomlinson, ladainian",RB,5,ladainian-tomlinson-tomlila01/,2005,San Diego (NFL),16,16,339,"1,462",4.31,91.4,62,18,71
+"tomlinson, ladainian",RB,6,ladainian-tomlinson-tomlila01/,2006,San Diego (NFL),16,16,348,"1,815",5.22,113.4,85t,28,81
+"tomlinson, ladainian",RB,7,ladainian-tomlinson-tomlila01/,2007,San Diego (NFL),16,16,315,"1,474",4.68,92.1,49,15,75
+"tomlinson, ladainian",RB,8,ladainian-tomlinson-tomlila01/,2008,San Diego (NFL),16,16,292,"1,110",3.80,69.4,45,11,52
+"tomlinson, ladainian",RB,9,ladainian-tomlinson-tomlila01/,2009,San Diego (NFL),14,14,223,730,3.27,52.1,36,12,40
+"tomlinson, ladainian",RB,10,ladainian-tomlinson-tomlila01/,2010,NY Jets (NFL),15,13,219,914,4.17,60.9,31,6,42
+"tomlinson, ladainian",RB,11,ladainian-tomlinson-tomlila01/,2011,NY Jets (NFL),14,1,75,280,3.73,20.0,20,1,15
+"ball, lance",RB,1,lance-ball-ballla03/,2008,Indianapolis (NFL),1,0,13,83,6.38,83.0,23,0,5
+"ball, lance",RB,2,lance-ball-ballla03/,2010,Denver (NFL),10,0,41,158,3.85,15.8,19,0,8
+"ball, lance",RB,3,lance-ball-ballla03/,2011,Denver (NFL),16,0,96,402,4.19,25.1,34,1,25
+"ball, lance",RB,4,lance-ball-ballla03/,2012,Denver (NFL),15,0,42,158,3.76,10.5,22,1,10
+"stephenshowling, larod",RB,1,larod-stephenshowling-stephla02/,2009,Arizona (NFL),16,2,6,15,2.50,0.9,5,0,0
+"stephenshowling, larod",RB,2,larod-stephenshowling-stephla02/,2010,Arizona (NFL),13,2,23,113,4.91,8.7,30t,1,5
+"stephenshowling, larod",RB,3,larod-stephenshowling-stephla02/,2011,Arizona (NFL),14,1,43,167,3.88,11.9,39,0,5
+"stephenshowling, larod",RB,4,larod-stephenshowling-stephla02/,2012,Arizona (NFL),14,5,110,356,3.24,25.4,52,4,15
+"stephenshowling, larod",RB,5,larod-stephenshowling-stephla02/,2013,Pittsburgh (NFL),1,0,6,19,3.17,19.0,5,0,0
+"johnson, larry",RB,1,larry-johnson-johnsla03/,2003,Kansas City (NFL),6,0,20,85,4.25,14.2,15,1,5
+"johnson, larry",RB,2,larry-johnson-johnsla03/,2004,Kansas City (NFL),10,3,120,581,4.84,58.1,46t,9,34
+"johnson, larry",RB,3,larry-johnson-johnsla03/,2005,Kansas City (NFL),16,9,336,"1,750",5.21,109.4,49t,20,97
+"johnson, larry",RB,4,larry-johnson-johnsla03/,2006,Kansas City (NFL),16,16,416,"1,789",4.30,111.8,47,17,91
+"johnson, larry",RB,5,larry-johnson-johnsla03/,2007,Kansas City (NFL),8,8,158,559,3.54,69.9,54,3,24
+"johnson, larry",RB,6,larry-johnson-johnsla03/,2008,Kansas City (NFL),12,12,193,874,4.53,72.8,65,5,44
+"johnson, larry",RB,7,larry-johnson-johnsla03/,2009,Kansas City (NFL),7,7,132,377,2.86,53.9,19,0,17
+"johnson, larry",RB,7,larry-johnson-johnsla03/, ,Cincinnati (NFL),7,0,46,204,4.43,29.1,27,0,11
+"johnson, larry",RB,8,larry-johnson-johnsla03/,2010,Washington (NFL),2,0,5,2,0.40,1.0,7,0,0
+"johnson, larry",RB,9,larry-johnson-johnsla03/,2011,Miami (NFL),1,0,1,2,2.00,2.0,2,0,0
+"vickers, lawrence",RB,1,lawrence-vickers-vickela01/,2006,Cleveland (NFL),16,1,3,2,0.67,0.1,2,0,0
+"vickers, lawrence",RB,2,lawrence-vickers-vickela01/,2007,Cleveland (NFL),16,14,15,43,2.87,2.7,7,0,10
+"vickers, lawrence",RB,3,lawrence-vickers-vickela01/,2008,Cleveland (NFL),12,8,10,31,3.10,2.6,10,0,6
+"vickers, lawrence",RB,4,lawrence-vickers-vickela01/,2009,Cleveland (NFL),16,9,0,0,0.00,0.0,0,0,0
+"vickers, lawrence",RB,5,lawrence-vickers-vickela01/,2010,Cleveland (NFL),16,4,5,11,2.20,0.7,3,0,2
+"vickers, lawrence",RB,6,lawrence-vickers-vickela01/,2011,Houston (NFL),14,1,1,0,0.00,0.0,0,0,0
+"vickers, lawrence",RB,7,lawrence-vickers-vickela01/,2012,Dallas (NFL),16,6,3,11,3.67,0.7,13,0,1
+"blount, legarrette",RB,1,legarrette-blount-blounle01/,2010,Tampa Bay (NFL),13,7,201,"1,007",5.01,77.5,53,6,38
+"blount, legarrette",RB,2,legarrette-blount-blounle01/,2011,Tampa Bay (NFL),14,14,184,781,4.25,55.8,54t,5,32
+"blount, legarrette",RB,3,legarrette-blount-blounle01/,2012,Tampa Bay (NFL),13,0,41,151,3.68,11.6,35,2,7
+"blount, legarrette",RB,4,legarrette-blount-blounle01/,2013,New England (NFL),16,7,153,772,5.05,48.2,47t,7,35
+"blount, legarrette",RB,5,legarrette-blount-blounle01/,2014,Pittsburgh (NFL),11,0,65,266,4.09,24.2,50,2,16
+"blount, legarrette",RB,5,legarrette-blount-blounle01/, ,New England (NFL),5,1,60,281,4.68,56.2,34,3,14
+"blount, legarrette",RB,6,legarrette-blount-blounle01/,2015,New England (NFL),12,6,165,703,4.26,58.6,38t,6,37
+"blount, legarrette",RB,7,legarrette-blount-blounle01/,2016,New England (NFL),16,8,299,"1,161",3.88,72.6,44,18,67
+"washington, leon",RB,1,leon-washington-washile01/,2006,NY Jets (NFL),16,8,151,650,4.30,40.6,23,4,33
+"washington, leon",RB,2,leon-washington-washile01/,2007,NY Jets (NFL),16,4,71,353,4.97,22.1,49,3,12
+"washington, leon",RB,3,leon-washington-washile01/,2008,NY Jets (NFL),16,1,76,448,5.89,28.0,61t,6,14
+"washington, leon",RB,4,leon-washington-washile01/,2009,NY Jets (NFL),7,0,72,331,4.60,47.3,33,0,9
+"washington, leon",RB,5,leon-washington-washile01/,2010,Seattle (NFL),16,0,27,100,3.70,6.2,21,1,5
+"washington, leon",RB,6,leon-washington-washile01/,2011,Seattle (NFL),16,1,53,248,4.68,15.5,48t,1,8
+"washington, leon",RB,7,leon-washington-washile01/,2012,Seattle (NFL),16,0,23,83,3.61,5.2,14,1,3
+"washington, leon",RB,8,leon-washington-washile01/,2013,New England (NFL),2,0,1,1,1.00,0.5,1,0,0
+"washington, leon",RB,8,leon-washington-washile01/, ,Tennessee (NFL),5,0,0,0,0.00,0.0,0,0,0
+"washington, leon",RB,9,leon-washington-washile01/,2014,Tennessee (NFL),16,0,13,57,4.38,3.6,16,0,1
+"mcclain, le'ron",RB,1,le'ron-mcclain-mcclale01/,2007,Baltimore (NFL),16,11,8,18,2.25,1.1,4,0,2
+"mcclain, le'ron",RB,2,le'ron-mcclain-mcclale01/,2008,Baltimore (NFL),16,16,232,902,3.89,56.4,82t,10,51
+"mcclain, le'ron",RB,3,le'ron-mcclain-mcclale01/,2009,Baltimore (NFL),16,14,46,180,3.91,11.2,20,2,22
+"mcclain, le'ron",RB,4,le'ron-mcclain-mcclale01/,2010,Baltimore (NFL),15,13,28,85,3.04,5.7,16,0,15
+"mcclain, le'ron",RB,5,le'ron-mcclain-mcclale01/,2011,Kansas City (NFL),16,10,15,51,3.40,3.2,12,1,3
+"mcclain, le'ron",RB,6,le'ron-mcclain-mcclale01/,2012,San Diego (NFL),16,9,14,42,3.00,2.6,17,0,2
+"mcclain, le'ron",RB,7,le'ron-mcclain-mcclale01/,2013,San Diego (NFL),16,2,11,32,2.91,2.0,7,0,7
+"mccoy, lesean",RB,1,lesean-mccoy-mccoyle02/,2009,Philadelphia (NFL),16,4,155,637,4.11,39.8,66t,4,28
+"mccoy, lesean",RB,2,lesean-mccoy-mccoyle02/,2010,Philadelphia (NFL),15,13,207,"1,080",5.22,72.0,62,7,48
+"mccoy, lesean",RB,3,lesean-mccoy-mccoyle02/,2011,Philadelphia (NFL),15,15,273,"1,309",4.79,87.3,60,17,84
+"mccoy, lesean",RB,4,lesean-mccoy-mccoyle02/,2012,Philadelphia (NFL),12,12,200,840,4.20,70.0,34,2,45
+"mccoy, lesean",RB,5,lesean-mccoy-mccoyle02/,2013,Philadelphia (NFL),16,16,314,"1,607",5.12,100.4,57t,9,79
+"mccoy, lesean",RB,6,lesean-mccoy-mccoyle02/,2014,Philadelphia (NFL),16,16,312,"1,319",4.23,82.4,53,5,67
+"mccoy, lesean",RB,7,lesean-mccoy-mccoyle02/,2015,Buffalo (NFL),12,12,203,895,4.41,74.6,48t,3,42
+"mccoy, lesean",RB,8,lesean-mccoy-mccoyle02/,2016,Buffalo (NFL),15,15,234,"1,267",5.42,84.5,75t,13,55
+"hilliard, lex",RB,1,lex-hilliard-hillile01/,2009,Miami (NFL),16,0,23,89,3.87,5.6,18,1,5
+"hilliard, lex",RB,2,lex-hilliard-hillile01/,2010,Miami (NFL),16,0,0,0,0.00,0.0,0,0,0
+"hilliard, lex",RB,3,lex-hilliard-hillile01/,2011,Miami (NFL),16,4,16,41,2.56,2.6,4,1,9
+"hilliard, lex",RB,4,lex-hilliard-hillile01/,2012,New England (NFL),2,0,1,2,2.00,1.0,2,0,1
+"hilliard, lex",RB,4,lex-hilliard-hillile01/, ,NY Jets (NFL),12,9,8,31,3.88,2.6,9,0,4
+"hilliard, lex",RB,5,lex-hilliard-hillile01/,2013,NY Jets (NFL),0,0,0,0,0.00,0.0,0,0,0
+"booker, lorenzo",RB,1,lorenzo-booker-bookelo01/,2007,Miami (NFL),7,1,28,125,4.46,17.9,22,0,8
+"booker, lorenzo",RB,2,lorenzo-booker-bookelo01/,2008,Philadelphia (NFL),10,1,20,53,2.65,5.3,8,0,2
+"booker, lorenzo",RB,3,lorenzo-booker-bookelo01/,2010,Minnesota (NFL),4,0,0,0,0.00,0.0,0,0,0
+"booker, lorenzo",RB,4,lorenzo-booker-bookelo01/,2011,Minnesota (NFL),15,0,13,52,4.00,3.5,25,0,3
+"tonga, manase",RB,1,manase-tonga-tongama01/,2011,Oakland (NFL),11,3,1,12,12.00,1.1,12,0,1
+"barber, marion",RB,1,marion-barber-barbema01/,1982,NY Jets (NFL),6,0,8,24,3.00,4.0,9,0,--
+"barber, marion",RB,2,marion-barber-barbema01/,1983,NY Jets (NFL),14,4,15,77,5.13,5.5,13,1,--
+"barber, marion",RB,3,marion-barber-barbema01/,1984,NY Jets (NFL),14,5,31,148,4.77,10.6,18,2,--
+"barber, marion",RB,4,marion-barber-barbema01/,1985,NY Jets (NFL),8,1,9,41,4.56,5.1,10,0,--
+"barber, marion",RB,5,marion-barber-barbema01/,1986,NY Jets (NFL),15,0,11,27,2.46,1.8,8,0,--
+"barber, marion",RB,6,marion-barber-barbema01/,1987,NY Jets (NFL),12,0,0,0,0.00,0.0,0,0,--
+"barber, marion",RB,7,marion-barber-barbema01/,1988,NY Jets (NFL),16,1,0,0,0.00,0.0,0,0,--
+"ingram, mark",RB,1,mark-ingram-ingrama02/,2011,New Orleans (NFL),10,4,122,474,3.88,47.4,35t,5,30
+"ingram, mark",RB,2,mark-ingram-ingrama02/,2012,New Orleans (NFL),16,5,156,602,3.86,37.6,31,5,28
+"ingram, mark",RB,3,mark-ingram-ingrama02/,2013,New Orleans (NFL),11,3,78,386,4.95,35.1,34,1,18
+"ingram, mark",RB,4,mark-ingram-ingrama02/,2014,New Orleans (NFL),13,9,226,964,4.26,74.2,31,9,47
+"ingram, mark",RB,5,mark-ingram-ingrama02/,2015,New Orleans (NFL),12,10,166,769,4.63,64.1,70,6,44
+"ingram, mark",RB,6,mark-ingram-ingrama02/,2016,New Orleans (NFL),16,14,205,"1,043",5.09,65.2,75t,6,49
+"lynch, marshawn",RB,1,marshawn-lynch-lynchma01/,2007,Buffalo (NFL),13,13,280,"1,115",3.98,85.8,56t,7,51
+"lynch, marshawn",RB,2,marshawn-lynch-lynchma01/,2008,Buffalo (NFL),15,15,250,"1,036",4.14,69.1,50,8,53
+"lynch, marshawn",RB,3,marshawn-lynch-lynchma01/,2009,Buffalo (NFL),13,6,120,450,3.75,34.6,47,2,18
+"lynch, marshawn",RB,4,marshawn-lynch-lynchma01/,2010,Buffalo (NFL),4,3,37,164,4.43,41.0,17,0,9
+"lynch, marshawn",RB,4,marshawn-lynch-lynchma01/, ,Seattle (NFL),12,11,165,573,3.47,47.8,39,6,29
+"lynch, marshawn",RB,5,marshawn-lynch-lynchma01/,2011,Seattle (NFL),15,15,285,"1,204",4.22,80.3,47,12,63
+"lynch, marshawn",RB,6,marshawn-lynch-lynchma01/,2012,Seattle (NFL),16,15,315,"1,590",5.05,99.4,77t,11,69
+"lynch, marshawn",RB,7,marshawn-lynch-lynchma01/,2013,Seattle (NFL),16,16,301,"1,257",4.18,78.6,43,12,68
+"lynch, marshawn",RB,8,marshawn-lynch-lynchma01/,2014,Seattle (NFL),16,14,280,"1,306",4.66,81.6,79t,13,65
+"lynch, marshawn",RB,9,marshawn-lynch-lynchma01/,2015,Seattle (NFL),7,6,111,417,3.76,59.6,24,3,29
+"forte, matt",RB,1,matt-forte-fortema01/,2008,Chicago (NFL),16,16,316,"1,238",3.92,77.4,50t,8,63
+"forte, matt",RB,2,matt-forte-fortema01/,2009,Chicago (NFL),16,16,258,929,3.60,58.1,61,4,39
+"forte, matt",RB,3,matt-forte-fortema01/,2010,Chicago (NFL),16,16,237,"1,069",4.51,66.8,68t,6,42
+"forte, matt",RB,4,matt-forte-fortema01/,2011,Chicago (NFL),12,12,203,997,4.91,83.1,46,3,40
+"forte, matt",RB,5,matt-forte-fortema01/,2012,Chicago (NFL),15,15,248,"1,094",4.41,72.9,46,5,45
+"forte, matt",RB,6,matt-forte-fortema01/,2013,Chicago (NFL),16,16,289,"1,339",4.63,83.7,55,9,74
+"forte, matt",RB,7,matt-forte-fortema01/,2014,Chicago (NFL),16,16,266,"1,038",3.90,64.9,32,6,63
+"forte, matt",RB,8,matt-forte-fortema01/,2015,Chicago (NFL),13,13,218,898,4.12,69.1,27,4,46
+"forte, matt",RB,9,matt-forte-fortema01/,2016,NY Jets (NFL),14,13,218,813,3.73,58.1,32,7,35
+"morris, maurice",RB,1,maurice-morris-morrima01/,2002,Seattle (NFL),11,0,32,153,4.78,13.9,24,0,6
+"morris, maurice",RB,2,maurice-morris-morrima01/,2003,Seattle (NFL),16,1,38,239,6.29,14.9,43,0,10
+"morris, maurice",RB,3,maurice-morris-morrima01/,2004,Seattle (NFL),15,0,30,126,4.20,8.4,12,0,9
+"morris, maurice",RB,4,maurice-morris-morrima01/,2005,Seattle (NFL),16,1,71,288,4.06,18.0,49,1,17
+"morris, maurice",RB,5,maurice-morris-morrima01/,2006,Seattle (NFL),16,8,161,604,3.75,37.8,29,0,33
+"morris, maurice",RB,6,maurice-morris-morrima01/,2007,Seattle (NFL),14,6,140,628,4.49,44.9,46,4,32
+"morris, maurice",RB,7,maurice-morris-morrima01/,2008,Seattle (NFL),13,6,132,574,4.35,44.2,45,0,27
+"morris, maurice",RB,8,maurice-morris-morrima01/,2009,Detroit (NFL),14,3,93,384,4.13,27.4,64t,2,14
+"morris, maurice",RB,9,maurice-morris-morrima01/,2010,Detroit (NFL),14,7,90,336,3.73,24.0,26,5,19
+"morris, maurice",RB,10,maurice-morris-morrima01/,2011,Detroit (NFL),16,5,80,316,3.95,19.8,31,1,12
+"moore, mewelde",RB,1,mewelde-moore-mooreme01/,2004,Minnesota (NFL),10,3,65,379,5.83,37.9,33,0,16
+"moore, mewelde",RB,2,mewelde-moore-mooreme01/,2005,Minnesota (NFL),16,8,155,662,4.27,41.4,33,1,32
+"moore, mewelde",RB,3,mewelde-moore-mooreme01/,2006,Minnesota (NFL),16,0,24,131,5.46,8.2,15,0,3
+"moore, mewelde",RB,4,mewelde-moore-mooreme01/,2007,Minnesota (NFL),12,0,20,113,5.65,9.4,17,0,7
+"moore, mewelde",RB,5,mewelde-moore-mooreme01/,2008,Pittsburgh (NFL),16,4,140,588,4.20,36.8,32t,5,36
+"moore, mewelde",RB,6,mewelde-moore-mooreme01/,2009,Pittsburgh (NFL),16,0,35,118,3.37,7.4,15,0,7
+"moore, mewelde",RB,7,mewelde-moore-mooreme01/,2010,Pittsburgh (NFL),15,0,33,99,3.00,6.6,18,0,4
+"moore, mewelde",RB,8,mewelde-moore-mooreme01/,2011,Pittsburgh (NFL),12,0,22,157,7.14,13.1,21,0,6
+"moore, mewelde",RB,9,mewelde-moore-mooreme01/,2012,Indianapolis (NFL),9,0,13,20,1.54,2.2,6,0,1
+"bush, michael",RB,1,michael-bush-bushmi01/,2008,Oakland (NFL),15,0,95,421,4.43,28.1,67t,3,15
+"bush, michael",RB,2,michael-bush-bushmi01/,2009,Oakland (NFL),16,7,123,589,4.79,36.8,60,3,22
+"bush, michael",RB,3,michael-bush-bushmi01/,2010,Oakland (NFL),14,3,158,655,4.15,46.8,30,8,32
+"bush, michael",RB,4,michael-bush-bushmi01/,2011,Oakland (NFL),16,9,256,977,3.82,61.1,44,7,53
+"bush, michael",RB,5,michael-bush-bushmi01/,2012,Chicago (NFL),13,1,114,411,3.60,31.6,20,5,28
+"bush, michael",RB,6,michael-bush-bushmi01/,2013,Chicago (NFL),15,0,63,197,3.13,13.1,40t,3,10
+"robinson, michael",RB,1,michael-robinson-robinmi03/,2006,San Francisco (NFL),16,0,38,116,3.05,7.2,33,2,5
+"robinson, michael",RB,2,michael-robinson-robinmi03/,2007,San Francisco (NFL),15,1,26,121,4.65,8.1,28,0,7
+"robinson, michael",RB,3,michael-robinson-robinmi03/,2008,San Francisco (NFL),16,1,19,50,2.63,3.1,10,0,5
+"robinson, michael",RB,4,michael-robinson-robinmi03/,2009,San Francisco (NFL),15,0,3,2,0.67,0.1,4,0,1
+"robinson, michael",RB,5,michael-robinson-robinmi03/,2010,Seattle (NFL),11,4,12,77,6.42,7.0,17,0,9
+"robinson, michael",RB,6,michael-robinson-robinmi03/,2011,Seattle (NFL),14,4,4,7,1.75,0.5,3,0,1
+"robinson, michael",RB,7,michael-robinson-robinmi03/,2012,Seattle (NFL),16,6,12,49,4.08,3.1,29,0,10
+"robinson, michael",RB,8,michael-robinson-robinmi03/,2013,Seattle (NFL),9,3,1,0,0.00,0.0,0,0,0
+"turner, michael",RB,1,michael-turner-turnemi02/,2004,San Diego (NFL),14,1,20,104,5.20,7.4,30,0,4
+"turner, michael",RB,2,michael-turner-turnemi02/,2005,San Diego (NFL),16,0,57,335,5.88,20.9,83t,3,11
+"turner, michael",RB,3,michael-turner-turnemi02/,2006,San Diego (NFL),13,0,80,502,6.28,38.6,73,2,24
+"turner, michael",RB,4,michael-turner-turnemi02/,2007,San Diego (NFL),16,0,71,316,4.45,19.8,74t,1,10
+"turner, michael",RB,5,michael-turner-turnemi02/,2008,Atlanta (NFL),16,16,376,"1,699",4.52,106.2,70,17,84
+"turner, michael",RB,6,michael-turner-turnemi02/,2009,Atlanta (NFL),11,11,178,871,4.89,79.2,58t,10,43
+"turner, michael",RB,7,michael-turner-turnemi02/,2010,Atlanta (NFL),16,15,334,"1,371",4.11,85.7,55,12,71
+"turner, michael",RB,8,michael-turner-turnemi02/,2011,Atlanta (NFL),16,15,301,"1,340",4.45,83.8,81t,11,62
+"turner, michael",RB,9,michael-turner-turnemi02/,2012,Atlanta (NFL),16,16,222,800,3.60,50.0,43,10,40
+"cox, mike",RB,1,mike-cox-coxmi01/,2008,Kansas City (NFL),16,5,1,-2,-2.00,-0.1,-2,0,0
+"cox, mike",RB,2,mike-cox-coxmi01/,2009,Kansas City (NFL),16,10,3,5,1.67,0.3,2,1,2
+"cox, mike",RB,3,mike-cox-coxmi01/,2010,Kansas City (NFL),7,2,0,0,0.00,0.0,0,0,0
+"cox, mike",RB,4,mike-cox-coxmi01/,2011,Atlanta (NFL),9,5,0,0,0.00,0.0,0,0,0
+"cox, mike",RB,5,mike-cox-coxmi01/,2012,Atlanta (NFL),8,7,0,0,0.00,0.0,0,0,0
+"goodson, mike",RB,1,mike-goodson-goodsmi01/,2009,Carolina (NFL),8,0,22,49,2.23,6.1,11,0,1
+"goodson, mike",RB,2,mike-goodson-goodsmi01/,2010,Carolina (NFL),16,3,103,452,4.39,28.2,45,3,20
+"goodson, mike",RB,3,mike-goodson-goodsmi01/,2011,Carolina (NFL),4,0,0,0,0.00,0.0,0,0,0
+"goodson, mike",RB,4,mike-goodson-goodsmi01/,2012,Oakland (NFL),12,0,35,221,6.31,18.4,43,0,6
+"goodson, mike",RB,5,mike-goodson-goodsmi01/,2013,NY Jets (NFL),2,0,7,61,8.71,30.5,26,0,2
+"sellers, mike",RB,1,mike-sellers-sellemi01/,1998,Washington (NFL),14,1,0,0,0.00,0.0,0,0,--
+"sellers, mike",RB,2,mike-sellers-sellemi01/,1999,Washington (NFL),16,2,0,0,0.00,0.0,0,0,--
+"sellers, mike",RB,3,mike-sellers-sellemi01/,2000,Washington (NFL),15,7,1,2,2.00,0.1,2,0,1
+"sellers, mike",RB,4,mike-sellers-sellemi01/,2001,Cleveland (NFL),9,7,0,0,0.00,0.0,0,0,0
+"sellers, mike",RB,5,mike-sellers-sellemi01/,2004,Washington (NFL),16,1,0,0,0.00,0.0,0,0,0
+"sellers, mike",RB,6,mike-sellers-sellemi01/,2005,Washington (NFL),15,6,1,1,1.00,0.1,1t,1,1
+"sellers, mike",RB,7,mike-sellers-sellemi01/,2006,Washington (NFL),16,6,12,51,4.25,3.2,13,0,7
+"sellers, mike",RB,8,mike-sellers-sellemi01/,2007,Washington (NFL),14,12,26,78,3.00,5.6,15,2,9
+"sellers, mike",RB,9,mike-sellers-sellemi01/,2008,Washington (NFL),16,6,6,24,4.00,1.5,10,0,1
+"sellers, mike",RB,10,mike-sellers-sellemi01/,2009,Washington (NFL),15,7,0,0,0.00,0.0,0,0,0
+"sellers, mike",RB,11,mike-sellers-sellemi01/,2010,Washington (NFL),16,8,4,2,0.50,0.1,1,0,1
+"sellers, mike",RB,12,mike-sellers-sellemi01/,2011,Washington (NFL),12,0,0,0,0.00,0.0,0,0,0
+"tolbert, mike",RB,1,mike-tolbert-tolbemi02/,2008,San Diego (NFL),13,7,13,37,2.85,2.8,11,0,4
+"tolbert, mike",RB,2,mike-tolbert-tolbemi02/,2009,San Diego (NFL),16,3,25,148,5.92,9.2,32,1,10
+"tolbert, mike",RB,3,mike-tolbert-tolbemi02/,2010,San Diego (NFL),15,4,182,735,4.04,49.0,36,11,42
+"tolbert, mike",RB,4,mike-tolbert-tolbemi02/,2011,San Diego (NFL),15,1,121,490,4.05,32.7,40,8,25
+"tolbert, mike",RB,5,mike-tolbert-tolbemi02/,2012,Carolina (NFL),16,5,54,183,3.39,11.4,13,7,24
+"tolbert, mike",RB,6,mike-tolbert-tolbemi02/,2013,Carolina (NFL),16,13,101,361,3.57,22.6,22,5,31
+"tolbert, mike",RB,7,mike-tolbert-tolbemi02/,2014,Carolina (NFL),8,6,37,78,2.11,9.8,15,0,4
+"tolbert, mike",RB,8,mike-tolbert-tolbemi02/,2015,Carolina (NFL),16,3,62,256,4.13,16.0,29,1,18
+"tolbert, mike",RB,9,mike-tolbert-tolbemi02/,2016,Carolina (NFL),16,2,35,114,3.26,7.1,14,0,5
+"hardesty, montario",RB,1,montario-hardesty-hardemo01/,2010,Cleveland (NFL),0,0,0,0,0.00,0.0,0,0,0
+"hardesty, montario",RB,2,montario-hardesty-hardemo01/,2011,Cleveland (NFL),10,4,88,266,3.02,26.6,19,0,6
+"hardesty, montario",RB,3,montario-hardesty-hardemo01/,2012,Cleveland (NFL),13,1,65,271,4.17,20.8,25,1,12
+"owens, montell",RB,1,montell-owens-owensmo02/,2006,Jacksonville (NFL),14,0,0,0,0.00,0.0,0,0,0
+"owens, montell",RB,2,montell-owens-owensmo02/,2007,Jacksonville (NFL),16,0,0,0,0.00,0.0,0,0,0
+"owens, montell",RB,3,montell-owens-owensmo02/,2008,Jacksonville (NFL),16,0,2,43,21.50,2.7,41t,2,2
+"owens, montell",RB,4,montell-owens-owensmo02/,2009,Jacksonville (NFL),16,0,2,1,0.50,0.1,3,0,0
+"owens, montell",RB,5,montell-owens-owensmo02/,2010,Jacksonville (NFL),16,0,0,0,0.00,0.0,0,0,0
+"owens, montell",RB,6,montell-owens-owensmo02/,2011,Jacksonville (NFL),13,0,10,39,3.90,3.0,9,0,3
+"owens, montell",RB,7,montell-owens-owensmo02/,2012,Jacksonville (NFL),13,4,42,209,4.98,16.1,32t,1,10
+"owens, montell",RB,8,montell-owens-owensmo02/,2013,Detroit (NFL),1,0,0,0,0.00,0.0,0,0,0
+"owens, montell",RB,9,montell-owens-owensmo02/,2014,Detroit (NFL),3,0,0,0,0.00,0.0,0,0,0
+"owens, montell",RB,9,montell-owens-owensmo02/, ,Chicago (NFL),3,0,0,0,0.00,0.0,0,0,0
+"madu, mossis",RB,1,mossis-madu-madumo01/,2011,Tampa Bay (NFL),9,0,15,55,3.67,6.1,15,0,3
+"mughelli, ovie",RB,1,ovie-mughelli-mugheov01/,2003,Baltimore (NFL),6,0,0,0,0.00,0.0,0,0,0
+"mughelli, ovie",RB,2,ovie-mughelli-mugheov01/,2004,Baltimore (NFL),3,0,0,0,0.00,0.0,0,0,0
+"mughelli, ovie",RB,3,ovie-mughelli-mugheov01/,2005,Baltimore (NFL),13,5,0,0,0.00,0.0,0,0,0
+"mughelli, ovie",RB,4,ovie-mughelli-mugheov01/,2006,Baltimore (NFL),16,8,12,50,4.17,3.1,12,0,4
+"mughelli, ovie",RB,5,ovie-mughelli-mugheov01/,2007,Atlanta (NFL),16,7,6,7,1.17,0.4,3,1,2
+"mughelli, ovie",RB,6,ovie-mughelli-mugheov01/,2008,Atlanta (NFL),16,13,5,16,3.20,1.0,9,0,4
+"mughelli, ovie",RB,7,ovie-mughelli-mugheov01/,2009,Atlanta (NFL),14,7,4,10,2.50,0.7,4,0,2
+"mughelli, ovie",RB,8,ovie-mughelli-mugheov01/,2010,Atlanta (NFL),16,6,13,36,2.77,2.2,6,0,7
+"mughelli, ovie",RB,9,ovie-mughelli-mugheov01/,2011,Atlanta (NFL),7,5,2,1,0.50,0.1,1,0,0
+"marecic, owen",RB,1,owen-marecic-marecow01/,2011,Cleveland (NFL),14,4,4,8,2.00,0.6,3,0,1
+"marecic, owen",RB,2,owen-marecic-marecow01/,2012,Cleveland (NFL),10,2,0,0,0.00,0.0,0,0,0
+"schmitt, owen",RB,1,owen-schmitt-schmiow01/,2008,Seattle (NFL),15,1,5,21,4.20,1.4,14,0,1
+"schmitt, owen",RB,2,owen-schmitt-schmiow01/,2009,Seattle (NFL),15,1,0,0,0.00,0.0,0,0,0
+"schmitt, owen",RB,3,owen-schmitt-schmiow01/,2010,Philadelphia (NFL),15,5,0,0,0.00,0.0,0,0,0
+"schmitt, owen",RB,4,owen-schmitt-schmiow01/,2011,Philadelphia (NFL),16,5,4,6,1.50,0.4,4,0,0
+"schmitt, owen",RB,5,owen-schmitt-schmiow01/,2012,Oakland (NFL),13,4,2,1,0.50,0.1,2,0,1
+"hillis, peyton",RB,1,peyton-hillis-hillipe01/,2008,Denver (NFL),12,6,68,343,5.04,28.6,19,5,24
+"hillis, peyton",RB,2,peyton-hillis-hillipe01/,2009,Denver (NFL),14,2,13,54,4.15,3.9,13,1,4
+"hillis, peyton",RB,3,peyton-hillis-hillipe01/,2010,Cleveland (NFL),16,14,270,"1,177",4.36,73.6,48,11,57
+"hillis, peyton",RB,4,peyton-hillis-hillipe01/,2011,Cleveland (NFL),10,9,161,587,3.65,58.7,24t,3,33
+"hillis, peyton",RB,5,peyton-hillis-hillipe01/,2012,Kansas City (NFL),13,2,85,309,3.63,23.8,18,1,19
+"hillis, peyton",RB,6,peyton-hillis-hillipe01/,2013,NY Giants (NFL),7,1,73,247,3.38,35.3,27,2,12
+"hillis, peyton",RB,7,peyton-hillis-hillipe01/,2014,NY Giants (NFL),9,0,26,115,4.42,12.8,16,0,4
+"tanner, phillip",RB,1,phillip-tanner-tanneph01/,2011,Dallas (NFL),9,0,22,76,3.46,8.4,17,1,5
+"tanner, phillip",RB,2,phillip-tanner-tanneph01/,2012,Dallas (NFL),14,0,25,61,2.44,4.4,9,0,3
+"tanner, phillip",RB,3,phillip-tanner-tanneph01/,2013,Dallas (NFL),16,0,9,12,1.33,0.8,9,1,2
+"tanner, phillip",RB,4,phillip-tanner-tanneph01/,2014,San Francisco (NFL),2,0,0,0,0.00,0.0,0,0,0
+"thomas, pierre",RB,1,pierre-thomas-thomapi01/,2007,New Orleans (NFL),12,1,52,252,4.85,21.0,24t,1,15
+"thomas, pierre",RB,2,pierre-thomas-thomapi01/,2008,New Orleans (NFL),15,5,129,625,4.84,41.7,42t,9,43
+"thomas, pierre",RB,3,pierre-thomas-thomapi01/,2009,New Orleans (NFL),14,6,147,793,5.39,56.6,34t,6,36
+"thomas, pierre",RB,4,pierre-thomas-thomapi01/,2010,New Orleans (NFL),6,3,83,269,3.24,44.8,16,2,19
+"thomas, pierre",RB,5,pierre-thomas-thomapi01/,2011,New Orleans (NFL),16,7,110,562,5.11,35.1,33,5,28
+"thomas, pierre",RB,6,pierre-thomas-thomapi01/,2012,New Orleans (NFL),15,4,105,473,4.50,31.5,48,1,16
+"thomas, pierre",RB,7,pierre-thomas-thomapi01/,2013,New Orleans (NFL),16,9,147,549,3.73,34.3,18,2,31
+"thomas, pierre",RB,8,pierre-thomas-thomapi01/,2014,New Orleans (NFL),11,3,45,222,4.93,20.2,27t,2,13
+"thomas, pierre",RB,9,pierre-thomas-thomapi01/,2015,San Francisco (NFL),1,0,4,12,3.00,12.0,4,0,1
+"thomas, pierre",RB,9,pierre-thomas-thomapi01/, ,Washington (NFL),4,0,11,52,4.73,13.0,11,0,2
+"johnson, quinn",RB,1,quinn-johnson-johnsqu01/,2009,Green Bay (NFL),9,0,0,0,0.00,0.0,0,0,0
+"johnson, quinn",RB,2,quinn-johnson-johnsqu01/,2010,Green Bay (NFL),11,4,0,0,0.00,0.0,0,0,0
+"johnson, quinn",RB,3,quinn-johnson-johnsqu01/,2011,Tennessee (NFL),4,1,0,0,0.00,0.0,0,0,0
+"johnson, quinn",RB,4,quinn-johnson-johnsqu01/,2012,Tennessee (NFL),16,8,4,5,1.25,0.3,3,0,2
+"johnson, quinn",RB,5,quinn-johnson-johnsqu01/,2013,Tennessee (NFL),4,0,0,0,0.00,0.0,0,0,0
+"porter, quinn",RB,1,quinn-porter-portequ02/,2011,St. Louis (NFL),12,0,0,0,0.00,0.0,0,0,0
+"mendenhall, rashard",RB,1,rashard-mendenhall-mendera01/,2008,Pittsburgh (NFL),4,1,19,58,3.05,14.5,12,0,2
+"mendenhall, rashard",RB,2,rashard-mendenhall-mendera01/,2009,Pittsburgh (NFL),16,12,242,"1,108",4.58,69.2,60,7,48
+"mendenhall, rashard",RB,3,rashard-mendenhall-mendera01/,2010,Pittsburgh (NFL),16,16,324,"1,273",3.93,79.6,50t,13,61
+"mendenhall, rashard",RB,4,rashard-mendenhall-mendera01/,2011,Pittsburgh (NFL),15,15,228,928,4.07,61.9,68,9,45
+"mendenhall, rashard",RB,5,rashard-mendenhall-mendera01/,2012,Pittsburgh (NFL),6,4,51,182,3.57,30.3,20,0,8
+"mendenhall, rashard",RB,6,rashard-mendenhall-mendera01/,2013,Arizona (NFL),15,15,217,687,3.17,45.8,28,8,43
+"rice, ray",RB,1,ray-rice-ricera01/,2008,Baltimore (NFL),13,4,107,454,4.24,34.9,60,0,18
+"rice, ray",RB,2,ray-rice-ricera01/,2009,Baltimore (NFL),16,15,254,"1,339",5.27,83.7,59t,7,54
+"rice, ray",RB,3,ray-rice-ricera01/,2010,Baltimore (NFL),16,14,307,"1,220",3.97,76.2,50,5,51
+"rice, ray",RB,4,ray-rice-ricera01/,2011,Baltimore (NFL),16,16,291,"1,364",4.69,85.2,70t,12,52
+"rice, ray",RB,5,ray-rice-ricera01/,2012,Baltimore (NFL),16,16,257,"1,143",4.45,71.4,46,9,51
+"rice, ray",RB,6,ray-rice-ricera01/,2013,Baltimore (NFL),15,15,214,660,3.08,44.0,47,4,28
+"bush, reggie",RB,1,reggie-bush-bushre01/,2006,New Orleans (NFL),16,8,155,565,3.65,35.3,18,6,27
+"bush, reggie",RB,2,reggie-bush-bushre01/,2007,New Orleans (NFL),12,10,157,581,3.70,48.4,22,4,32
+"bush, reggie",RB,3,reggie-bush-bushre01/,2008,New Orleans (NFL),10,9,106,404,3.81,40.4,43,2,20
+"bush, reggie",RB,4,reggie-bush-bushre01/,2009,New Orleans (NFL),14,8,70,390,5.57,27.9,55,5,19
+"bush, reggie",RB,5,reggie-bush-bushre01/,2010,New Orleans (NFL),8,6,36,150,4.17,18.8,23,0,6
+"bush, reggie",RB,6,reggie-bush-bushre01/,2011,Miami (NFL),15,15,216,"1,086",5.03,72.4,76t,6,40
+"bush, reggie",RB,7,reggie-bush-bushre01/,2012,Miami (NFL),16,16,227,986,4.34,61.6,65t,6,43
+"bush, reggie",RB,8,reggie-bush-bushre01/,2013,Detroit (NFL),14,14,223,"1,006",4.51,71.9,39,4,47
+"bush, reggie",RB,9,reggie-bush-bushre01/,2014,Detroit (NFL),11,9,76,297,3.91,27.0,26t,2,9
+"bush, reggie",RB,10,reggie-bush-bushre01/,2015,San Francisco (NFL),5,1,8,28,3.50,5.6,9,0,0
+"bush, reggie",RB,11,reggie-bush-bushre01/,2016,Buffalo (NFL),13,0,12,-3,-0.25,-0.2,5,1,2
+"williams, ricky",RB,1,ricky-williams-williri01/,1999,New Orleans (NFL),12,12,253,884,3.49,73.7,25,2,--
+"williams, ricky",RB,2,ricky-williams-williri01/,2000,New Orleans (NFL),10,10,248,"1,000",4.03,100.0,26t,8,56
+"williams, ricky",RB,3,ricky-williams-williri01/,2001,New Orleans (NFL),16,16,313,"1,245",3.98,77.8,46,6,58
+"williams, ricky",RB,4,ricky-williams-williri01/,2002,Miami (NFL),16,16,383,"1,853",4.84,115.8,63t,16,91
+"williams, ricky",RB,5,ricky-williams-williri01/,2003,Miami (NFL),16,16,392,"1,372",3.50,85.8,45,9,68
+"williams, ricky",RB,6,ricky-williams-williri01/,2005,Miami (NFL),12,3,168,743,4.42,61.9,35,6,37
+"williams, ricky",RB,7,ricky-williams-williri01/,2007,Miami (NFL),1,0,6,15,2.50,15.0,6,0,2
+"williams, ricky",RB,8,ricky-williams-williri01/,2008,Miami (NFL),16,3,160,659,4.12,41.2,51t,4,35
+"williams, ricky",RB,9,ricky-williams-williri01/,2009,Miami (NFL),16,7,241,"1,121",4.65,70.1,68t,11,55
+"williams, ricky",RB,10,ricky-williams-williri01/,2010,Miami (NFL),16,0,159,673,4.23,42.1,45t,2,26
+"williams, ricky",RB,11,ricky-williams-williri01/,2011,Baltimore (NFL),16,0,108,444,4.11,27.8,28,2,20
+"cartwright, rock",RB,1,rock-cartwright-cartwro01/,2002,Washington (NFL),16,0,3,22,7.33,1.4,20,0,2
+"cartwright, rock",RB,2,rock-cartwright-cartwro01/,2003,Washington (NFL),15,3,107,411,3.84,27.4,22,4,36
+"cartwright, rock",RB,3,rock-cartwright-cartwro01/,2004,Washington (NFL),13,0,2,0,0.00,0.0,2,0,0
+"cartwright, rock",RB,4,rock-cartwright-cartwro01/,2005,Washington (NFL),16,0,27,199,7.37,12.4,52,2,10
+"cartwright, rock",RB,5,rock-cartwright-cartwro01/,2006,Washington (NFL),16,0,5,15,3.00,0.9,9,0,0
+"cartwright, rock",RB,6,rock-cartwright-cartwro01/,2007,Washington (NFL),15,0,2,0,0.00,0.0,1,0,0
+"cartwright, rock",RB,7,rock-cartwright-cartwro01/,2008,Washington (NFL),16,0,5,14,2.80,0.9,7,0,0
+"cartwright, rock",RB,8,rock-cartwright-cartwro01/,2009,Washington (NFL),16,2,64,228,3.56,14.2,34,0,12
+"cartwright, rock",RB,9,rock-cartwright-cartwro01/,2010,Oakland (NFL),16,0,9,22,2.44,1.4,10,0,1
+"cartwright, rock",RB,10,rock-cartwright-cartwro01/,2011,Oakland (NFL),15,0,4,45,11.25,3.0,35,0,1
+"brown, ronnie",RB,1,ronnie-brown-brownro11/,2005,Miami (NFL),15,14,207,907,4.38,60.5,65t,4,41
+"brown, ronnie",RB,2,ronnie-brown-brownro11/,2006,Miami (NFL),13,12,241,"1,008",4.18,77.5,47,5,49
+"brown, ronnie",RB,3,ronnie-brown-brownro11/,2007,Miami (NFL),7,7,119,602,5.06,86.0,60,4,39
+"brown, ronnie",RB,4,ronnie-brown-brownro11/,2008,Miami (NFL),16,13,214,916,4.28,57.2,62t,10,48
+"brown, ronnie",RB,5,ronnie-brown-brownro11/,2009,Miami (NFL),9,9,147,648,4.41,72.0,45,8,32
+"brown, ronnie",RB,6,ronnie-brown-brownro11/,2010,Miami (NFL),16,16,200,734,3.67,45.9,51,5,40
+"brown, ronnie",RB,7,ronnie-brown-brownro11/,2011,Philadelphia (NFL),16,2,42,136,3.24,8.5,15,1,11
+"brown, ronnie",RB,8,ronnie-brown-brownro11/,2012,San Diego (NFL),14,1,46,220,4.78,15.7,21,0,12
+"brown, ronnie",RB,9,ronnie-brown-brownro11/,2013,San Diego (NFL),16,0,45,157,3.49,9.8,13,1,8
+"brown, ronnie",RB,10,ronnie-brown-brownro11/,2014,San Diego (NFL),7,0,14,59,4.21,8.4,11,0,5
+"brown, ronnie",RB,10,ronnie-brown-brownro11/, ,Houston (NFL),3,0,6,4,0.67,1.3,2,0,0
+"helu, roy",RB,1,roy-helu-heluro01/,2011,Washington (NFL),15,5,151,640,4.24,42.7,28t,2,31
+"helu, roy",RB,2,roy-helu-heluro01/,2012,Washington (NFL),3,0,2,2,1.00,0.7,1,0,0
+"helu, roy",RB,3,roy-helu-heluro01/,2013,Washington (NFL),16,0,62,274,4.42,17.1,24,4,18
+"helu, roy",RB,4,roy-helu-heluro01/,2014,Washington (NFL),14,0,40,216,5.40,15.4,18,1,10
+"helu, roy",RB,5,roy-helu-heluro01/,2015,Oakland (NFL),9,0,17,39,2.29,4.3,12,0,4
+"grant, ryan",RB,1,ryan-grant-grantry01/,2007,Green Bay (NFL),15,7,188,956,5.08,63.7,66t,8,36
+"grant, ryan",RB,2,ryan-grant-grantry01/,2008,Green Bay (NFL),16,14,312,"1,203",3.86,75.2,57,4,53
+"grant, ryan",RB,3,ryan-grant-grantry01/,2009,Green Bay (NFL),16,16,282,"1,253",4.44,78.3,62t,11,61
+"grant, ryan",RB,4,ryan-grant-grantry01/,2010,Green Bay (NFL),1,1,8,45,5.62,45.0,18,0,2
+"grant, ryan",RB,5,ryan-grant-grantry01/,2011,Green Bay (NFL),15,14,134,559,4.17,37.3,47t,2,27
+"grant, ryan",RB,6,ryan-grant-grantry01/,2012,Washington (NFL),1,0,1,5,5.00,5.0,5,0,0
+"grant, ryan",RB,6,ryan-grant-grantry01/, ,Green Bay (NFL),4,1,31,127,4.10,31.8,18,2,7
+"mahaffey, ryan",RB,1,ryan-mahaffey-mahafry01/,2011,Indianapolis (NFL),5,0,0,0,0.00,0.0,0,0,0
+"mathews, ryan",RB,1,ryan-mathews-mathery01/,2010,San Diego (NFL),12,9,158,678,4.29,56.5,31t,7,25
+"mathews, ryan",RB,2,ryan-mathews-mathery01/,2011,San Diego (NFL),14,14,222,"1,091",4.91,77.9,39,6,52
+"mathews, ryan",RB,3,ryan-mathews-mathery01/,2012,San Diego (NFL),12,9,184,707,3.84,58.9,31,1,34
+"mathews, ryan",RB,4,ryan-mathews-mathery01/,2013,San Diego (NFL),16,14,285,"1,255",4.40,78.4,51,6,54
+"mathews, ryan",RB,5,ryan-mathews-mathery01/,2014,San Diego (NFL),6,6,74,330,4.46,55.0,32t,3,17
+"mathews, ryan",RB,6,ryan-mathews-mathery01/,2015,Philadelphia (NFL),13,6,106,539,5.08,41.5,63t,6,32
+"mathews, ryan",RB,7,ryan-mathews-mathery01/,2016,Philadelphia (NFL),13,8,155,661,4.26,50.8,30,8,38
+"torain, ryan",RB,1,ryan-torain-torairy01/,2008,Denver (NFL),2,1,15,69,4.60,34.5,19,1,4
+"torain, ryan",RB,2,ryan-torain-torairy01/,2010,Washington (NFL),10,8,164,742,4.52,74.2,54,4,35
+"torain, ryan",RB,3,ryan-torain-torairy01/,2011,Washington (NFL),8,4,59,200,3.39,25.0,39,1,5
+"torain, ryan",RB,4,ryan-torain-torairy01/,2012,NY Giants (NFL),2,0,0,0,0.00,0.0,0,0,0
+"morris, sammy",RB,1,sammy-morris-morrisa01/,2000,Buffalo (NFL),12,9,93,341,3.67,28.4,32t,5,29
+"morris, sammy",RB,2,sammy-morris-morrisa01/,2001,Buffalo (NFL),16,1,20,72,3.60,4.5,10,0,2
+"morris, sammy",RB,3,sammy-morris-morrisa01/,2002,Buffalo (NFL),16,0,2,5,2.50,0.3,5,0,0
+"morris, sammy",RB,4,sammy-morris-morrisa01/,2003,Buffalo (NFL),9,0,19,70,3.68,7.8,12,1,7
+"morris, sammy",RB,5,sammy-morris-morrisa01/,2004,Miami (NFL),13,8,132,523,3.96,40.2,35t,6,31
+"morris, sammy",RB,6,sammy-morris-morrisa01/,2005,Miami (NFL),16,2,16,58,3.62,3.6,9t,1,3
+"morris, sammy",RB,7,sammy-morris-morrisa01/,2006,Miami (NFL),12,4,92,400,4.35,33.3,55,1,17
+"morris, sammy",RB,8,sammy-morris-morrisa01/,2007,New England (NFL),6,2,85,384,4.52,64.0,49,3,24
+"morris, sammy",RB,9,sammy-morris-morrisa01/,2008,New England (NFL),13,7,156,727,4.66,55.9,35,7,45
+"morris, sammy",RB,10,sammy-morris-morrisa01/,2009,New England (NFL),12,5,73,319,4.37,26.6,55,2,18
+"morris, sammy",RB,11,sammy-morris-morrisa01/,2010,New England (NFL),16,0,20,56,2.80,3.5,9,0,6
+"morris, sammy",RB,12,sammy-morris-morrisa01/,2011,Dallas (NFL),3,0,28,98,3.50,32.7,15,0,7
+"vereen, shane",RB,1,shane-vereen-vereesh01/,2011,New England (NFL),5,0,15,57,3.80,11.4,19,1,2
+"vereen, shane",RB,2,shane-vereen-vereesh01/,2012,New England (NFL),13,1,62,251,4.05,19.3,16,3,15
+"vereen, shane",RB,3,shane-vereen-vereesh01/,2013,New England (NFL),8,1,44,208,4.73,26.0,21,1,11
+"vereen, shane",RB,4,shane-vereen-vereesh01/,2014,New England (NFL),16,6,96,391,4.07,24.4,19,2,15
+"vereen, shane",RB,5,shane-vereen-vereesh01/,2015,NY Giants (NFL),16,0,61,260,4.26,16.2,39,0,13
+"vereen, shane",RB,6,shane-vereen-vereesh01/,2016,NY Giants (NFL),5,1,33,158,4.79,31.6,25,1,8
+"chapas, shaun",RB,1,shaun-chapas-chapash01/,2011,Dallas (NFL),3,0,0,0,0.00,0.0,0,0,0
+"chapas, shaun",RB,2,shaun-chapas-chapash01/,2012,Detroit (NFL),3,1,0,0,0.00,0.0,0,0,0
+"greene, shonn",RB,1,shonn-greene-greensh01/,2009,NY Jets (NFL),14,0,108,540,5.00,38.6,33t,2,24
+"greene, shonn",RB,2,shonn-greene-greensh01/,2010,NY Jets (NFL),15,2,185,766,4.14,51.1,23t,2,40
+"greene, shonn",RB,3,shonn-greene-greensh01/,2011,NY Jets (NFL),16,15,253,"1,054",4.17,65.9,31,6,46
+"greene, shonn",RB,4,shonn-greene-greensh01/,2012,NY Jets (NFL),16,14,276,"1,063",3.85,66.4,36,8,52
+"greene, shonn",RB,5,shonn-greene-greensh01/,2013,Tennessee (NFL),11,0,77,295,3.83,26.8,29,4,18
+"greene, shonn",RB,6,shonn-greene-greensh01/,2014,Tennessee (NFL),13,5,94,392,4.17,30.2,52,2,18
+"logan, stefan",RB,1,stefan-logan-loganst01/,2009,Pittsburgh (NFL),16,1,0,0,0.00,0.0,0,0,0
+"logan, stefan",RB,2,stefan-logan-loganst01/,2010,Detroit (NFL),16,0,15,95,6.33,5.9,21,0,5
+"logan, stefan",RB,3,stefan-logan-loganst01/,2011,Detroit (NFL),16,1,9,32,3.56,2.0,16,0,2
+"logan, stefan",RB,4,stefan-logan-loganst01/,2012,Detroit (NFL),16,0,3,17,5.67,1.1,13,0,1
+"ridley, stevan",RB,1,stevan-ridley-ridlest01/,2011,New England (NFL),16,2,87,441,5.07,27.6,33t,1,18
+"ridley, stevan",RB,2,stevan-ridley-ridlest01/,2012,New England (NFL),16,12,290,"1,263",4.36,78.9,41,12,82
+"ridley, stevan",RB,3,stevan-ridley-ridlest01/,2013,New England (NFL),14,6,178,773,4.34,55.2,29,7,39
+"ridley, stevan",RB,4,stevan-ridley-ridlest01/,2014,New England (NFL),6,5,94,340,3.62,56.7,43,2,16
+"ridley, stevan",RB,5,stevan-ridley-ridlest01/,2015,NY Jets (NFL),8,1,36,90,2.50,11.2,13,0,5
+"ridley, stevan",RB,6,stevan-ridley-ridlest01/,2016,Atlanta (NFL),1,0,3,7,2.33,7.0,7,0,1
+"ridley, stevan",RB,6,stevan-ridley-ridlest01/, ,Atlanta (NFL),1,0,3,7,2.33,7.0,7,0,1
+"slaton, steve",RB,1,steve-slaton-slatost01/,2008,Houston (NFL),16,15,268,"1,282",4.78,80.1,71t,9,60
+"slaton, steve",RB,2,steve-slaton-slatost01/,2009,Houston (NFL),11,10,131,437,3.34,39.7,32t,3,26
+"slaton, steve",RB,3,steve-slaton-slatost01/,2010,Houston (NFL),12,1,19,93,4.89,7.8,23,0,4
+"slaton, steve",RB,4,steve-slaton-slatost01/,2011,Houston (NFL),3,0,7,20,2.86,6.7,13,0,1
+"slaton, steve",RB,4,steve-slaton-slatost01/, ,Miami (NFL),3,0,17,64,3.77,21.3,28,1,2
+"jackson, steven",RB,1,steven-jackson-jacksst03/,2004,St. Louis (NFL),14,3,134,673,5.02,48.1,48,4,37
+"jackson, steven",RB,2,steven-jackson-jacksst03/,2005,St. Louis (NFL),15,15,254,"1,046",4.12,69.7,51,8,50
+"jackson, steven",RB,3,steven-jackson-jacksst03/,2006,St. Louis (NFL),16,16,346,"1,528",4.42,95.5,59t,13,74
+"jackson, steven",RB,4,steven-jackson-jacksst03/,2007,St. Louis (NFL),12,12,237,"1,002",4.23,83.5,54,5,36
+"jackson, steven",RB,5,steven-jackson-jacksst03/,2008,St. Louis (NFL),12,11,253,"1,042",4.12,86.8,56t,7,58
+"jackson, steven",RB,6,steven-jackson-jacksst03/,2009,St. Louis (NFL),15,15,324,"1,416",4.37,94.4,58,4,61
+"jackson, steven",RB,7,steven-jackson-jacksst03/,2010,St. Louis (NFL),16,16,330,"1,241",3.76,77.6,42t,6,60
+"jackson, steven",RB,8,steven-jackson-jacksst03/,2011,St. Louis (NFL),15,15,260,"1,145",4.40,76.3,47t,5,50
+"jackson, steven",RB,9,steven-jackson-jacksst03/,2012,St. Louis (NFL),16,16,258,"1,045",4.05,65.3,46,4,47
+"jackson, steven",RB,10,steven-jackson-jacksst03/,2013,Atlanta (NFL),12,12,157,543,3.46,45.2,50,6,26
+"jackson, steven",RB,11,steven-jackson-jacksst03/,2014,Atlanta (NFL),15,15,190,707,3.72,47.1,55,6,37
+"jackson, steven",RB,12,steven-jackson-jacksst03/,2015,New England (NFL),2,1,21,50,2.38,25.0,7,1,4
+"jones, taiwan",RB,1,taiwan-jones-jonesta01/,2011,Oakland (NFL),10,0,16,73,4.56,7.3,14,0,2
+"jones, taiwan",RB,2,taiwan-jones-jonesta01/,2012,Oakland (NFL),14,0,6,21,3.50,1.5,7,0,1
+"jones, taiwan",RB,3,taiwan-jones-jonesta01/,2013,Oakland (NFL),16,0,5,23,4.60,1.4,19,0,1
+"jones, taiwan",RB,4,taiwan-jones-jonesta01/,2014,Oakland (NFL),1,0,0,0,0.00,0.0,0,0,0
+"jones, taiwan",RB,5,taiwan-jones-jonesta01/,2015,Oakland (NFL),12,0,16,74,4.62,6.2,19,0,3
+"jones, taiwan",RB,6,taiwan-jones-jonesta01/,2016,Oakland (NFL),13,0,1,-8,-8.00,-0.6,-8,0,0
+"choice, tashard",RB,1,tashard-choice-choicta01/,2008,Dallas (NFL),16,3,92,472,5.13,29.5,38t,2,25
+"choice, tashard",RB,2,tashard-choice-choicta01/,2009,Dallas (NFL),16,0,64,349,5.45,21.8,66,3,20
+"choice, tashard",RB,3,tashard-choice-choicta01/,2010,Dallas (NFL),16,0,66,243,3.68,15.2,26,3,14
+"choice, tashard",RB,4,tashard-choice-choicta01/,2011,Dallas (NFL),6,1,28,75,2.68,12.5,14,0,4
+"choice, tashard",RB,4,tashard-choice-choicta01/, ,Washington (NFL),1,0,6,7,1.17,7.0,9,0,0
+"choice, tashard",RB,4,tashard-choice-choicta01/, ,Buffalo (NFL),6,0,23,70,3.04,11.7,12,1,6
+"choice, tashard",RB,5,tashard-choice-choicta01/,2012,Buffalo (NFL),12,0,47,193,4.11,16.1,22,1,9
+"choice, tashard",RB,6,tashard-choice-choicta01/,2013,Buffalo (NFL),12,0,35,126,3.60,10.5,20,0,7
+"choice, tashard",RB,6,tashard-choice-choicta01/, ,Indianapolis (NFL),3,0,11,44,4.00,14.7,8,0,1
+"clayton, thomas",RB,1,thomas-clayton-claytth01/,2008,San Francisco (NFL),0,0,0,0,0.00,0.0,0,0,0
+"clayton, thomas",RB,2,thomas-clayton-claytth01/,2010,Cleveland (NFL),2,0,1,0,0.00,0.0,0,0,0
+"clayton, thomas",RB,2,thomas-clayton-claytth01/, ,New England (NFL),1,0,6,17,2.83,17.0,5,0,1
+"clayton, thomas",RB,3,thomas-clayton-claytth01/,2011,Cleveland (NFL),3,0,8,12,1.50,4.0,4,0,1
+"jones, thomas",RB,1,thomas-jones-jonesth01/,2000,Arizona (NFL),14,4,112,373,3.33,26.6,29,2,23
+"jones, thomas",RB,2,thomas-jones-jonesth01/,2001,Arizona (NFL),16,2,112,380,3.39,23.8,21,5,22
+"jones, thomas",RB,3,thomas-jones-jonesth01/,2002,Arizona (NFL),9,9,138,511,3.70,56.8,58t,2,21
+"jones, thomas",RB,4,thomas-jones-jonesth01/,2003,Tampa Bay (NFL),16,3,137,627,4.58,39.2,61,3,25
+"jones, thomas",RB,5,thomas-jones-jonesth01/,2004,Chicago (NFL),14,14,240,948,3.95,67.7,54,7,49
+"jones, thomas",RB,6,thomas-jones-jonesth01/,2005,Chicago (NFL),15,15,314,"1,335",4.25,89.0,42,9,61
+"jones, thomas",RB,7,thomas-jones-jonesth01/,2006,Chicago (NFL),16,16,296,"1,210",4.09,75.6,30t,6,61
+"jones, thomas",RB,8,thomas-jones-jonesth01/,2007,NY Jets (NFL),16,14,310,"1,119",3.61,69.9,36,1,56
+"jones, thomas",RB,9,thomas-jones-jonesth01/,2008,NY Jets (NFL),16,14,290,"1,312",4.52,82.0,59t,13,63
+"jones, thomas",RB,10,thomas-jones-jonesth01/,2009,NY Jets (NFL),16,16,331,"1,402",4.24,87.6,71t,14,64
+"jones, thomas",RB,11,thomas-jones-jonesth01/,2010,Kansas City (NFL),16,10,245,896,3.66,56.0,70,6,39
+"jones, thomas",RB,12,thomas-jones-jonesth01/,2011,Kansas City (NFL),16,8,153,478,3.12,29.9,26,0,19
+"hightower, tim",RB,1,tim-hightower-hightti01/,2008,Arizona (NFL),16,7,143,399,2.79,24.9,30t,10,34
+"hightower, tim",RB,2,tim-hightower-hightti01/,2009,Arizona (NFL),16,16,143,598,4.18,37.4,50,8,33
+"hightower, tim",RB,3,tim-hightower-hightti01/,2010,Arizona (NFL),16,13,153,736,4.81,46.0,80t,5,30
+"hightower, tim",RB,4,tim-hightower-hightti01/,2011,Washington (NFL),5,5,84,321,3.82,64.2,22,1,13
+"hightower, tim",RB,5,tim-hightower-hightti01/,2015,New Orleans (NFL),8,3,96,375,3.91,46.9,26,4,25
+"hightower, tim",RB,6,tim-hightower-hightti01/,2016,New Orleans (NFL),16,1,133,548,4.12,34.2,30,4,32
+"gerhart, toby",RB,1,toby-gerhart-gerhato02/,2010,Minnesota (NFL),15,1,81,322,3.98,21.5,21,1,13
+"gerhart, toby",RB,2,toby-gerhart-gerhato02/,2011,Minnesota (NFL),16,5,109,531,4.87,33.2,67,1,24
+"gerhart, toby",RB,3,toby-gerhart-gerhato02/,2012,Minnesota (NFL),16,0,50,169,3.38,10.6,22,1,10
+"gerhart, toby",RB,4,toby-gerhart-gerhato02/,2013,Minnesota (NFL),14,0,36,283,7.86,20.2,41t,2,13
+"gerhart, toby",RB,5,toby-gerhart-gerhato02/,2014,Jacksonville (NFL),14,7,101,326,3.23,23.3,23,2,23
+"gerhart, toby",RB,6,toby-gerhart-gerhato02/,2015,Jacksonville (NFL),7,1,20,44,2.20,6.3,6,0,3
+"fiammetta, tony",RB,1,tony-fiammetta-fiammto01/,2009,Carolina (NFL),10,2,0,0,0.00,0.0,0,0,0
+"fiammetta, tony",RB,2,tony-fiammetta-fiammto01/,2010,Carolina (NFL),14,9,7,22,3.14,1.6,11,0,4
+"fiammetta, tony",RB,3,tony-fiammetta-fiammto01/,2011,Dallas (NFL),10,6,4,4,1.00,0.4,3,0,1
+"fiammetta, tony",RB,4,tony-fiammetta-fiammto01/,2013,Chicago (NFL),16,7,0,0,0.00,0.0,0,0,0
+"fiammetta, tony",RB,5,tony-fiammetta-fiammto01/,2014,Chicago (NFL),1,0,0,0,0.00,0.0,0,0,0
+"leach, vonta",RB,1,vonta-leach-leachvo01/,2004,Green Bay (NFL),6,0,0,0,0.00,0.0,0,0,0
+"leach, vonta",RB,2,vonta-leach-leachvo01/,2005,Green Bay (NFL),16,5,0,0,0.00,0.0,0,0,0
+"leach, vonta",RB,3,vonta-leach-leachvo01/,2006,Green Bay (NFL),1,1,0,0,0.00,0.0,0,0,0
+"leach, vonta",RB,3,vonta-leach-leachvo01/, ,Houston (NFL),11,4,0,0,0.00,0.0,0,0,0
+"leach, vonta",RB,4,vonta-leach-leachvo01/,2007,Houston (NFL),16,12,2,2,1.00,0.1,1t,1,1
+"leach, vonta",RB,5,vonta-leach-leachvo01/,2008,Houston (NFL),16,12,1,1,1.00,0.1,1t,1,1
+"leach, vonta",RB,6,vonta-leach-leachvo01/,2009,Houston (NFL),16,4,0,0,0.00,0.0,0,0,0
+"leach, vonta",RB,7,vonta-leach-leachvo01/,2010,Houston (NFL),16,5,0,0,0.00,0.0,0,0,0
+"leach, vonta",RB,8,vonta-leach-leachvo01/,2011,Baltimore (NFL),16,16,12,35,2.92,2.2,6,0,9
+"leach, vonta",RB,9,vonta-leach-leachvo01/,2012,Baltimore (NFL),16,13,9,32,3.56,2.0,6,1,3
+"leach, vonta",RB,10,vonta-leach-leachvo01/,2013,Baltimore (NFL),16,7,11,23,2.09,1.4,6,0,3
+"mcgahee, willis",RB,1,willis-mcgahee-mcgahwi01/,2004,Buffalo (NFL),16,11,284,"1,128",3.97,70.5,41,13,64
+"mcgahee, willis",RB,2,willis-mcgahee-mcgahwi01/,2005,Buffalo (NFL),16,15,325,"1,247",3.84,77.9,27,5,71
+"mcgahee, willis",RB,3,willis-mcgahee-mcgahwi01/,2006,Buffalo (NFL),14,14,259,990,3.82,70.7,57t,6,48
+"mcgahee, willis",RB,4,willis-mcgahee-mcgahwi01/,2007,Baltimore (NFL),15,15,294,"1,207",4.11,80.5,46t,7,56
+"mcgahee, willis",RB,5,willis-mcgahee-mcgahwi01/,2008,Baltimore (NFL),13,8,170,671,3.95,51.6,77t,7,34
+"mcgahee, willis",RB,6,willis-mcgahee-mcgahwi01/,2009,Baltimore (NFL),16,1,109,544,4.99,34.0,77t,12,28
+"mcgahee, willis",RB,7,willis-mcgahee-mcgahwi01/,2010,Baltimore (NFL),15,2,100,380,3.80,25.3,30t,5,18
+"mcgahee, willis",RB,8,willis-mcgahee-mcgahwi01/,2011,Denver (NFL),15,14,249,"1,199",4.82,79.9,60t,4,52
+"mcgahee, willis",RB,9,willis-mcgahee-mcgahwi01/,2012,Denver (NFL),10,9,167,731,4.38,73.1,31,4,43
+"mcgahee, willis",RB,10,willis-mcgahee-mcgahwi01/,2013,Cleveland (NFL),12,6,138,377,2.73,31.4,16,2,28
