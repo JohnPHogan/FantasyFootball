@@ -6,7 +6,7 @@ GetPlayerData.ipynb
 ## Web Source  ##
 http://www.footballdb.com
 
-### Depenencies  ###
+### Dependencies  ###
 
 The program depends on the existence of CSV based files for each position you wish to evaluate.  qb.csv, rb.csv and wr.csv already exist.  These files consist of two columns:  NAME and PAGE.  The name needs to be the first and last name of the player separated by a space and the second column must be the numeric counter that the website uses to manage players whose names are similar enough to cause a naming collision.  The number, as far as i can tell, increments for each occurrance.  Here are a couple examples:
 
