@@ -12766,13 +12766,318 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="prompt input_prompt">In&nbsp;[32]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span> 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">newton_2016</span> <span class="o">=</span> <span class="n">qb_fantasy_2016</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">qb_fantasy_2016</span><span class="p">[</span><span class="s1">&#39;Name&#39;</span><span class="p">]</span> <span class="o">==</span> <span class="s1">&#39;newton, cam&#39;</span><span class="p">]</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;done!&quot;</span><span class="p">)</span>
+<span class="n">newton_2016</span>
 </pre></div>
 
 </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area"><div class="prompt"></div>
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>done!
+</pre>
+</div>
+</div>
+
+<div class="output_area"><div class="prompt output_prompt">Out[32]:</div>
+
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Name</th>
+      <th>Career Year</th>
+      <th>Year</th>
+      <th>Date</th>
+      <th>Pass Yds</th>
+      <th>Pass TD</th>
+      <th>Pass Int</th>
+      <th>Rush Yds</th>
+      <th>Rush TD</th>
+      <th>Fantasy Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>892</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>09/08/16</td>
+      <td>194</td>
+      <td>1</td>
+      <td>1</td>
+      <td>54</td>
+      <td>1</td>
+      <td>23.16</td>
+    </tr>
+    <tr>
+      <th>893</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>09/18/16</td>
+      <td>353</td>
+      <td>4</td>
+      <td>1</td>
+      <td>37</td>
+      <td>0</td>
+      <td>39.82</td>
+    </tr>
+    <tr>
+      <th>894</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>09/25/16</td>
+      <td>262</td>
+      <td>0</td>
+      <td>3</td>
+      <td>26</td>
+      <td>1</td>
+      <td>13.08</td>
+    </tr>
+    <tr>
+      <th>895</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>10/02/16</td>
+      <td>165</td>
+      <td>1</td>
+      <td>0</td>
+      <td>30</td>
+      <td>0</td>
+      <td>15.60</td>
+    </tr>
+    <tr>
+      <th>896</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>10/16/16</td>
+      <td>322</td>
+      <td>2</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>28.98</td>
+    </tr>
+    <tr>
+      <th>897</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>10/30/16</td>
+      <td>212</td>
+      <td>0</td>
+      <td>0</td>
+      <td>43</td>
+      <td>0</td>
+      <td>12.78</td>
+    </tr>
+    <tr>
+      <th>898</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>11/06/16</td>
+      <td>225</td>
+      <td>1</td>
+      <td>0</td>
+      <td>16</td>
+      <td>0</td>
+      <td>16.60</td>
+    </tr>
+    <tr>
+      <th>899</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>11/13/16</td>
+      <td>261</td>
+      <td>1</td>
+      <td>1</td>
+      <td>54</td>
+      <td>1</td>
+      <td>25.84</td>
+    </tr>
+    <tr>
+      <th>900</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>11/17/16</td>
+      <td>192</td>
+      <td>1</td>
+      <td>0</td>
+      <td>7</td>
+      <td>0</td>
+      <td>14.38</td>
+    </tr>
+    <tr>
+      <th>901</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>11/27/16</td>
+      <td>246</td>
+      <td>2</td>
+      <td>1</td>
+      <td>6</td>
+      <td>1</td>
+      <td>26.44</td>
+    </tr>
+    <tr>
+      <th>902</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>12/04/16</td>
+      <td>182</td>
+      <td>1</td>
+      <td>0</td>
+      <td>12</td>
+      <td>0</td>
+      <td>14.48</td>
+    </tr>
+    <tr>
+      <th>903</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>12/11/16</td>
+      <td>160</td>
+      <td>1</td>
+      <td>1</td>
+      <td>31</td>
+      <td>0</td>
+      <td>13.50</td>
+    </tr>
+    <tr>
+      <th>904</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>12/19/16</td>
+      <td>300</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+      <td>0</td>
+      <td>24.00</td>
+    </tr>
+    <tr>
+      <th>905</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>12/24/16</td>
+      <td>198</td>
+      <td>1</td>
+      <td>2</td>
+      <td>36</td>
+      <td>0</td>
+      <td>13.52</td>
+    </tr>
+    <tr>
+      <th>906</th>
+      <td>newton, cam</td>
+      <td>6</td>
+      <td>2016</td>
+      <td>01/01/17</td>
+      <td>237</td>
+      <td>1</td>
+      <td>3</td>
+      <td>6</td>
+      <td>0</td>
+      <td>10.08</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[33]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">newton_2016</span> <span class="o">=</span> <span class="n">newton_2016</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">&#39;Year&#39;</span><span class="p">,</span> <span class="s1">&#39;Career Year&#39;</span><span class="p">])</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span>
+<span class="n">newton_2016</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area"><div class="prompt output_prompt">Out[33]:</div>
+
+<div class="output_html rendered_html output_subarea output_execute_result">
+<div>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th></th>
+      <th>Pass Yds</th>
+      <th>Pass TD</th>
+      <th>Pass Int</th>
+      <th>Rush Yds</th>
+      <th>Rush TD</th>
+      <th>Fantasy Points</th>
+    </tr>
+    <tr>
+      <th>Year</th>
+      <th>Career Year</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>2016</th>
+      <th>6</th>
+      <td>3509</td>
+      <td>19</td>
+      <td>14</td>
+      <td>359</td>
+      <td>5</td>
+      <td>292.26</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+
+</div>
+
 </div>
 </div>
 
